@@ -1,0 +1,31 @@
+{
+  "name": "airline-codes",
+  "version": "1.0.2",
+  "description": "Airline codes (IATA) and information pulled from OpenFlights.org.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npow/airline-codes"
+  },
+  "keywords": [
+    "airline",
+    "codes",
+    "iata",
+    "openflights"
+  ],
+  "author": "Nissan Pow <npow@uwaterloo.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npow/airline-codes/issues"
+  },
+  "homepage": "https://github.com/airline/airline-codes",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "backbone": "^1.1.2",
+    "csv": "^0.4.5",
+    "lodash": "^2.4.2"
+  }
+}
