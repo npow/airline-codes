@@ -191,7 +191,7 @@
 ,
 {"id":"96","name":"Aegean Airlines","alias":"\\N","iata":"A3","icao":"AEE","callsign":"AEGEAN","country":"Greece","active":"Y"}
 ,
-{"id":"97","name":"Aerofumigaciones Sam","alias":"\\N","iata":"","icao":"AEG","callsign":"FUMIGACIONES SAM","country":"Chile","active":"N"}
+{"id":"97","name":"Aerofumigaciones Sam","alias":"\\N","iata":"0C","icao":"AEG","callsign":"FUMIGACIONES SAM","country":"Chile","active":"N"}
 ,
 {"id":"98","name":"Aeroexpreso Interamericano","alias":"\\N","iata":"","icao":"AEI","callsign":"INTERAM","country":"Colombia","active":"N"}
 ,
@@ -429,7 +429,7 @@
 ,
 {"id":"215","name":"Air Brousse","alias":"\\N","iata":"","icao":"ABT","callsign":"AIR BROUSSE","country":"Canada","active":"N"}
 ,
-{"id":"216","name":"Air Contractors","alias":"\\N","iata":"AG","icao":"ABR","callsign":"CONTRACT","country":"Ireland","active":"N"}
+{"id":"216","name":"ASL Airlines Ireland","alias":"\\N","iata":"AG","icao":"ABR","callsign":"CONTRACT","country":"Ireland","active":"N"}
 ,
 {"id":"217","name":"Air Illinois","alias":"\\N","iata":"","icao":"AIL","callsign":"AIR ILLINOIS","country":"United States","active":"N"}
 ,
@@ -4491,7 +4491,7 @@
 ,
 {"id":"2247","name":"Europe Air Lines","alias":"\\N","iata":"","icao":"GED","callsign":"LANGUEDOC","country":"France","active":"N"}
 ,
-{"id":"2248","name":"Europe Airpost","alias":"\\N","iata":"","icao":"FPO","callsign":"FRENCH POST","country":"France","active":"N"}
+{"id":"2248","name":"ASL Airlines France","alias":"\\N","iata":"5O","icao":"FPO","callsign":"FRENCH POST","country":"France","active":"N"}
 ,
 {"id":"2249","name":"European 2000 Airlines","alias":"\\N","iata":"","icao":"EUT","callsign":"FIESTA","country":"Malta","active":"N"}
 ,
@@ -6885,7 +6885,7 @@
 ,
 {"id":"3447","name":"Medical Aviation Services","alias":"\\N","iata":"","icao":"MCL","callsign":"MEDIC","country":"United Kingdom","active":"N"}
 ,
-{"id":"3448","name":"Mediterranean Air Freight","alias":"\\N","iata":"","icao":"MDF","callsign":"MED-FREIGHT","country":"Greece","active":"N"}
+{"id":"3448","name":"Mediterranean Air Freight","alias":"\\N","iata":"0F","icao":"MDF","callsign":"MED-FREIGHT","country":"Greece","active":"N"}
 ,
 {"id":"3449","name":"Mediterranean Airways","alias":"\\N","iata":"","icao":"MDY","callsign":"","country":"Egypt","active":"N"}
 ,
@@ -9469,7 +9469,7 @@
 ,
 {"id":"4743","name":"Slok Air","alias":"\\N","iata":"","icao":"SLB","callsign":"SLOK AIR","country":"Nigeria","active":"N"}
 ,
-{"id":"4744","name":"Silver Air","alias":"\\N","iata":"","icao":"SLD","callsign":"SILVERLINE","country":"Czech Republic","active":"N"}
+{"id":"4744","name":"Silver Air","alias":"\\N","iata":"0E","icao":"SLD","callsign":"SILVERLINE","country":"Czech Republic","active":"N"}
 ,
 {"id":"4745","name":"Streamline","alias":"\\N","iata":"","icao":"SLE","callsign":"SLIPSTREAM","country":"South Africa","active":"N"}
 ,
@@ -9723,7 +9723,7 @@
 ,
 {"id":"4872","name":"Travelair","alias":"\\N","iata":"","icao":"TAX","callsign":"TRAVELAIR","country":"Germany","active":"N"}
 ,
-{"id":"4873","name":"TNT Airways","alias":"\\N","iata":"3V","icao":"TAY","callsign":"QUALITY","country":"Belgium","active":"N"}
+{"id":"4873","name":"ASL Airlines Belgium","alias":"\\N","iata":"3V","icao":"TAY","callsign":"QUALITY","country":"Belgium","active":"N"}
 ,
 {"id":"4874","name":"Transbrasil","alias":"\\N","iata":"","icao":"TBA","callsign":"TRANSBRASIL","country":"Brazil","active":"N"}
 ,
@@ -11649,7 +11649,7 @@
 ,
 {"id":"16721","name":"Red Jet Canada","alias":"","iata":"QY","icao":"\\N","callsign":"","country":"Canada","active":"Y"}
 ,
-{"id":"16723","name":"Sprintair","alias":"","iata":"","icao":"SRN","callsign":"","country":"Poland","active":"Y"}
+{"id":"16723","name":"Sprintair","alias":"","iata":"0G","icao":"SAR","callsign":"","country":"Poland","active":"Y"}
 ,
 {"id":"16724","name":"Red Jet Mexico","alias":"","iata":"4X","icao":"\\N","callsign":"","country":"Mexico","active":"Y"}
 ,
