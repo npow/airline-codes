@@ -9851,7 +9851,7 @@
 ,
 {"id":"4936","name":"Tiger Airways","alias":"\\N","iata":"TR","icao":"TGW","callsign":"GO CAT","country":"Singapore","active":"Y"}
 ,
-{"id":"4937","name":"Tiger Airways Australia","alias":"\\N","iata":"TT","icao":"TGW","callsign":"GO CAT","country":"Australia","active":"Y"}
+{"id":"4937","name":"Tigerair Australia","alias":"\\N","iata":"TT","icao":"TGG","callsign":"TIGGOZ","country":"Australia","active":"Y"}
 ,
 {"id":"4938","name":"Transair Gabon]","alias":"\\N","iata":"","icao":"TGX","callsign":"TRANSGABON","country":"Gabon","active":"N"}
 ,
@@ -11825,7 +11825,7 @@
 ,
 {"id":"17890","name":"Nordic Global Airlines","alias":"","iata":"NJ","icao":"NGB","callsign":"Nordic Global","country":"Finland","active":"Y"}
 ,
-{"id":"17891","name":"Scoot","alias":"","iata":"TZ","icao":"SCO","callsign":"","country":"Singapore","active":"Y"}
+{"id":"17891","name":"Scoot","alias":"","iata":"TR","icao":"SCO","callsign":"","country":"Singapore","active":"Y"}
 ,
 {"id":"17893","name":"Starling Airlines Spain","alias":"","iata":"SX","icao":"STS","callsign":"STARLING","country":"Spain","active":"N"}
 ,
@@ -11967,7 +11967,7 @@
 ,
 {"id":"19215","name":"Flyme (VP)","alias":"","iata":"","icao":"VQI","callsign":"","country":"Maldives","active":"Y"}
 ,
-{"id":"19225","name":"Thai Lion Air","alias":"","iata":"SL","icao":"\\N","callsign":"","country":"Thailand","active":"Y"}
+{"id":"19225","name":"Thai Lion Air","alias":"","iata":"SL","icao":"TLM","callsign":"MENTARI","country":"Thailand","active":"Y"}
 ,
 {"id":"19231","name":"Deutsche Luftverkehrsgesellschaft","alias":"","iata":"DW","icao":"DLT","callsign":"","country":"Germany","active":"N"}
 ,
@@ -12094,4 +12094,38 @@
 {"id":"19834","name":"FlyPortugal","alias":"","iata":"PO","icao":"FPT","callsign":"FlyPortugal","country":"Portugal","active":"Y"}
 ,
 {"id":"19845","name":"FTI Fluggesellschaft","alias":"","iata":"","icao":"FTI","callsign":"","country":"Germany","active":"N"}
+,
+{"id":"19846","name":"Myanmar Airways International","alias":"","iata":"8M","icao":"MMA","callsign":"MYANMAR","country":"Myanmar","active":"Y"}
+,
+{"id":"19847","name":"Vistera","alias":"","iata":"UK","icao":"VTI","callsign":"VISTARA","country":"India","active":"Y"}
+,
+{"id":"19848","name":"Urumqi Air","alias":"","iata":"UQ","icao":"CUH","callsign":"LOU LAN","country":"China","active":"Y"}
+,
+{"id":"19849","name":"Guangxi Beibu Gulf Airlines","alias":"","iata":"UQ","icao":"CBG","callsign":"GREEN CITY","country":"China","active":"Y"}
+,
+{"id":"19850","name":"My Indo Airlines","alias":"","iata":"2Y","icao":"MYU","callsign":"MYINDO","country":"Indonesia","active":"Y"}
+,
+{"id":"19851","name":"Government of Morocco","alias":"","iata":"","icao":"FRV","callsign":"","country":"Morocco","active":"Y"}
+,
+{"id":"19852","name":"Hong Kong Air Cargo","alias":"","iata":"RH","icao":"HKC","callsign":"MASCOT","country":"Hong Kong","active":"Y"}
+,
+{"id":"19853","name":"US-Bangla Airlines","alias":"","iata":"BS","icao":"UBG","callsign":"BANGLA STAR","country":"Bangladesh","active":"Y"}
+,
+{"id":"19854","name":"NetJets Europe","alias":"","iata":"1I","icao":"NJE","callsign":"FRACTION","country":"Portugal","active":"Y"}
+,
+{"id":"19855","name":"Bhutan Airlines","alias":"","iata":"B3","icao":"BTN","callsign":"BHUTAN AIR","country":"Bhutan","active":"Y"}
+,
+{"id":"19856","name":"Iran Airtour","alias":"","iata":"B9","icao":"IRB","callsign":"IRAN AIRTOUR","country":"Bhutan","active":"Y"}
+,
+{"id":"19857","name":"Avcon Jet","alias":"","iata":"","icao":"AOJ","callsign":"ASTERIX","country":"Austria","active":"Y"}
+,
+{"id":"19858","name":"Indonesia AirAsia X","alias":"","iata":"XT","icao":"IDX","callsign":"RED PHOENIX","country":"Indonesia","active":"Y"}
+,
+{"id":"19859","name":"Qatar Executive","alias":"","iata":"QE","icao":"QQE","callsign":"QREX","country":"Qatar","active":"Y"}
+,
+{"id":"19860","name":"SF Airlines","alias":"","iata":"O3","icao":"CSS","callsign":"SHUN FENG","country":"China","active":"Y"}
+,
+{"id":"19861","name":"Regent Airways","alias":"","iata":"RX","icao":"RGE","callsign":"REGENT","country":"Bangladesh","active":"Y"}
+,
+{"id":"19862","name":"AsiaCargo Express","alias":"","iata":"3G","icao":"CXM","callsign":"ASIA CARGO","country":"Malaysia","active":"Y"}
 ]
