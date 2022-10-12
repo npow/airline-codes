@@ -2153,7 +2153,7 @@
 ,
 {"id":"1077","name":"Aermarche","alias":"\\N","iata":"","icao":"MMC","callsign":"AERMARCHE","country":"Italy","active":"N"}
 ,
-{"id":"1078","name":"Air Alsie","alias":"\\N","iata":"","icao":"MMD","callsign":"MERMAID","country":"Denmark","active":"N"}
+{"id":"1078","name":"Alsie Express","alias":"Air Alsie","iata":"6I","icao":"MMD","callsign":"MERMAID","country":"Denmark","active":"Y"}
 ,
 {"id":"1079","name":"Aviation Company Meridian","alias":"\\N","iata":"","icao":"MMM","callsign":"AVIAMERIDIAN","country":"Russia","active":"N"}
 ,
@@ -11751,7 +11751,7 @@
 ,
 {"id":"17094","name":"Senegal Airlines","alias":"","iata":"DN","icao":"SGG","callsign":"","country":"Senegal","active":"Y"}
 ,
-{"id":"17095","name":"Fly 6ix","alias":"","iata":"6I","icao":"\\N","callsign":"","country":"Sierra Leone","active":"Y"}
+{"id":"17095","name":"Fly 6ix","alias":"","iata":"6I","icao":"\\N","callsign":"","country":"Sierra Leone","active":"N"}
 ,
 {"id":"17099","name":"Starbow Airlines","alias":"","iata":"S9","icao":"\\N","callsign":"","country":"Ghana","active":"Y"}
 ,
