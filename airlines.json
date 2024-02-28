@@ -53,7 +53,7 @@
 ,
 {"id":"27","name":"Aerovista Airlines","alias":"\\N","iata":"","icao":"AAP","callsign":"AEROVISTA GROUP","country":"United Arab Emirates","active":"N"}
 ,
-{"id":"28","name":"Asiana Airlines","alias":"\\N","iata":"OZ","icao":"AAR","callsign":"ASIANA","country":"Republic of Korea","active":"Y"}
+{"id":"28","name":"Asiana Airlines","alias":"\\N","iata":"OZ","icao":"AAR","callsign":"ASIANA","country":"South Korea","active":"Y"}
 ,
 {"id":"29","name":"Askari Aviation","alias":"\\N","iata":"4K","icao":"AAS","callsign":"AL-AAS","country":"Pakistan","active":"Y"}
 ,
@@ -501,7 +501,7 @@
 ,
 {"id":"251","name":"Ajet","alias":"\\N","iata":"","icao":"AJY","callsign":"AYJET","country":"Cyprus","active":"N"}
 ,
-{"id":"252","name":"Air Korea Co. Ltd.","alias":"\\N","iata":"","icao":"AKA","callsign":"","country":"Republic of Korea","active":"Y"}
+{"id":"252","name":"Air Korea Co. Ltd.","alias":"\\N","iata":"","icao":"AKA","callsign":"","country":"South Korea","active":"Y"}
 ,
 {"id":"253","name":"Air Livonia","alias":"\\N","iata":"","icao":"LIV","callsign":"LIVONIA","country":"Estonia","active":"N"}
 ,
@@ -1965,7 +1965,7 @@
 ,
 {"id":"983","name":"Air Canada Jazz","alias":"\\N","iata":"QK","icao":"JZA","callsign":"JAZZ","country":"Canada","active":"Y"}
 ,
-{"id":"984","name":"Asia Aero Survey and Consulting Engineers","alias":"\\N","iata":"","icao":"KAA","callsign":"AASCO","country":"Republic of Korea","active":"N"}
+{"id":"984","name":"Asia Aero Survey and Consulting Engineers","alias":"\\N","iata":"","icao":"KAA","callsign":"AASCO","country":"South Korea","active":"N"}
 ,
 {"id":"985","name":"Air Kirovograd","alias":"\\N","iata":"","icao":"KAD","callsign":"AIR KIROVOGRAD","country":"Ukraine","active":"N"}
 ,
@@ -1993,7 +1993,7 @@
 ,
 {"id":"997","name":"Aerokaluz","alias":"\\N","iata":"","icao":"KLZ","callsign":"AEROKALUZ","country":"Mexico","active":"N"}
 ,
-{"id":"998","name":"Air Koryo","alias":"\\N","iata":"JS","icao":"KOR","callsign":"AIR KORYO","country":"Democratic People's Republic of Korea","active":"Y"}
+{"id":"998","name":"Air Koryo","alias":"\\N","iata":"JS","icao":"KOR","callsign":"AIR KORYO","country":"South Korea","active":"Y"}
 ,
 {"id":"999","name":"Araiavia","alias":"\\N","iata":"","icao":"KOY","callsign":"ALEKS","country":"Kazakhstan","active":"N"}
 ,
@@ -5353,7 +5353,7 @@
 ,
 {"id":"2679","name":"Hangard Aviation","alias":"\\N","iata":"","icao":"HGD","callsign":"HANGARD","country":"Mongolia","active":"N"}
 ,
-{"id":"2680","name":"Hansung Airlines","alias":"\\N","iata":"","icao":"HAN","callsign":"HANSUNG AIR","country":"Republic of Korea","active":"N"}
+{"id":"2680","name":"Hansung Airlines","alias":"\\N","iata":"","icao":"HAN","callsign":"HANSUNG AIR","country":"South Korea","active":"N"}
 ,
 {"id":"2681","name":"TUIfly","alias":"\\N","iata":"X3","icao":"HLX","callsign":"YELLOW CAB","country":"Germany","active":"Y"}
 ,
@@ -5981,7 +5981,7 @@
 ,
 {"id":"2993","name":"Jazeera Airways","alias":"\\N","iata":"J9","icao":"JZR","callsign":"JAZEERA","country":"Kuwait","active":"Y"}
 ,
-{"id":"2994","name":"Jeju Air","alias":"\\N","iata":"7C","icao":"JJA","callsign":"JEJU AIR","country":"Republic of Korea","active":"Y"}
+{"id":"2994","name":"Jeju Air","alias":"\\N","iata":"7C","icao":"JJA","callsign":"JEJU AIR","country":"South Korea","active":"Y"}
 ,
 {"id":"2995","name":"Jenney Beechcraft","alias":"\\N","iata":"","icao":"JNY","callsign":"JENAIR","country":"United States","active":"N"}
 ,
@@ -6319,7 +6319,7 @@
 ,
 {"id":"3162","name":"Koob-Corp - 96 KFT","alias":"\\N","iata":"","icao":"KOB","callsign":"AUTOFLEX","country":"Hungary","active":"N"}
 ,
-{"id":"3163","name":"Korean Air","alias":"\\N","iata":"KE","icao":"KAL","callsign":"KOREANAIR","country":"Republic of Korea","active":"Y"}
+{"id":"3163","name":"Korean Air","alias":"\\N","iata":"KE","icao":"KAL","callsign":"KOREANAIR","country":"South Korea","active":"Y"}
 ,
 {"id":"3164","name":"Kosmas Air","alias":"\\N","iata":"","icao":"KMG","callsign":"KOSMAS CARGO","country":"Serbia","active":"N"}
 ,
@@ -8815,7 +8815,7 @@
 ,
 {"id":"4416","name":"Shoprite Group","alias":"\\N","iata":"","icao":"SHG","callsign":"SHOP AIR","country":"United Kingdom","active":"N"}
 ,
-{"id":"4417","name":"Seoul Air International","alias":"\\N","iata":"","icao":"SHI","callsign":"SEOUL AIR","country":"Republic of Korea","active":"N"}
+{"id":"4417","name":"Seoul Air International","alias":"\\N","iata":"","icao":"SHI","callsign":"SEOUL AIR","country":"South Korea","active":"N"}
 ,
 {"id":"4418","name":"Sharjah Ruler's Flight","alias":"\\N","iata":"","icao":"SHJ","callsign":"SHARJAH","country":"United Arab Emirates","active":"N"}
 ,
@@ -11023,7 +11023,7 @@
 ,
 {"id":"-1","name":"Unknown","alias":"\\N","iata":"-","icao":"N/A","callsign":"\\N","country":"\\N","active":"Y"}
 ,
-{"id":"5982","name":"Air Busan","alias":"\\N","iata":"BX","icao":"ABL","callsign":"Air Busan","country":"Republic of Korea","active":"Y"}
+{"id":"5982","name":"Air Busan","alias":"\\N","iata":"BX","icao":"ABL","callsign":"Air Busan","country":"South Korea","active":"Y"}
 ,
 {"id":"6002","name":"TUI Airlines Belgium","alias":"now Jetairlfy","iata":"TB","icao":"TUB","callsign":"BEAUTY","country":"Belgium","active":"N"}
 ,
