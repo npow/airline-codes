@@ -5969,7 +5969,7 @@
 ,
 {"id":"2987","name":"Japan Airlines","alias":"JAL Japan Airlines","iata":"JL","icao":"JAL","callsign":"JAPANAIR","country":"Japan","active":"Y"}
 ,
-{"id":"2988","name":"Japan Airlines Domestic","alias":"\\N","iata":"JL","icao":"JAL","callsign":"J-BIRD","country":"Japan","active":"Y"}
+{"id":"2988","name":"Japan Airlines Domestic","alias":"\\N","iata":"JL","icao":"JAL","callsign":"J-BIRD","country":"Japan","active":"N"}
 ,
 {"id":"2989","name":"Japan Asia Airways","alias":"\\N","iata":"EG","icao":"JAA","callsign":"ASIA","country":"Japan","active":"Y"}
 ,
@@ -6757,11 +6757,11 @@
 ,
 {"id":"3383","name":"Mall Airways","alias":"\\N","iata":"","icao":"MLS","callsign":"MALL-AIRWAYS","country":"United States","active":"N"}
 ,
-{"id":"3384","name":"Malmo Aviation","alias":"\\N","iata":"","icao":"SCW","callsign":"SCANWING","country":"Sweden","active":"Y"}
+{"id":"3384","name":"Malmo Aviation","alias":"\\N","iata":"","icao":"SCW","callsign":"SCANWING","country":"Sweden","active":"N"}
 ,
 {"id":"3385","name":"Malmoe Air Taxi","alias":"\\N","iata":"","icao":"LOD","callsign":"LOGIC","country":"Sweden","active":"N"}
 ,
-{"id":"3386","name":"Malmö Aviation","alias":"\\N","iata":"TF","icao":"SCW","callsign":"Scanwings","country":"Sweden","active":"Y"}
+{"id":"3386","name":"Malmö Aviation","alias":"\\N","iata":"TF","icao":"SCW","callsign":"Scanwings","country":"Sweden","active":"N"}
 ,
 {"id":"3387","name":"Malta Air Charter","alias":"\\N","iata":"R5","icao":"MAC","callsign":"MALTA CHARTER","country":"Malta","active":"Y"}
 ,
@@ -8513,7 +8513,7 @@
 ,
 {"id":"4263","name":"Royal Navy","alias":"\\N","iata":"","icao":"NVY","callsign":"NAVY","country":"United Kingdom","active":"N"}
 ,
-{"id":"4264","name":"Royal Nepal Airlines","alias":"\\N","iata":"RA","icao":"RNA","callsign":"ROYAL NEPAL","country":"Nepal","active":"Y"}
+{"id":"4264","name":"Royal Nepal Airlines","alias":"\\N","iata":"RA","icao":"RNA","callsign":"ROYAL NEPAL","country":"Nepal","active":"N"}
 ,
 {"id":"4265","name":"Royal Netherland Navy","alias":"\\N","iata":"","icao":"NRN","callsign":"NETHERLANDS NAVY","country":"Netherlands","active":"N"}
 ,
@@ -9101,7 +9101,7 @@
 ,
 {"id":"4559","name":"Swiss International Air Lines","alias":"Swiss Airlines","iata":"LX","icao":"SWR","callsign":"SWISS","country":"Switzerland","active":"Y"}
 ,
-{"id":"4560","name":"Swissair","alias":"\\N","iata":"SR","icao":"SWR","callsign":"Swissair","country":"Switzerland","active":"Y"}
+{"id":"4560","name":"Swissair","alias":"\\N","iata":"SR","icao":"SWR","callsign":"Swissair","country":"Switzerland","active":"N"}
 ,
 {"id":"4561","name":"Sunwest Aviation (Lindquist Investment)","alias":"\\N","iata":"","icao":"SWS","callsign":"SUNNY WEST","country":"United States","active":"N"}
 ,
