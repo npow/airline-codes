@@ -1171,7 +1171,7 @@
 ,
 {"id":"586","name":"Aviaxess","alias":"\\N","iata":"","icao":"AXV","callsign":"AXAVIA","country":"France","active":"N"}
 ,
-{"id":"587","name":"Avioimpex A.D.p.o.","alias":"\\N","iata":"","icao":"AXX","callsign":"IMPEX","country":"Macedonia","active":"N"}
+{"id":"587","name":"Avioimpex A.D.p.o.","alias":"\\N","iata":"","icao":"AXX","callsign":"IMPEX","country":"North Macedonia","active":"N"}
 ,
 {"id":"588","name":"Axis Airways","alias":"\\N","iata":"6V","icao":"AXY","callsign":"AXIS","country":"France","active":"N"}
 ,
@@ -1385,7 +1385,7 @@
 ,
 {"id":"693","name":"Air Urga","alias":"\\N","iata":"3N","icao":"URG","callsign":"URGA","country":"Ukraine","active":"N"}
 ,
-{"id":"694","name":"Air Vardar","alias":"\\N","iata":"","icao":"VDR","callsign":"VARDAR","country":"Macedonia","active":"N"}
+{"id":"694","name":"Air Vardar","alias":"\\N","iata":"","icao":"VDR","callsign":"VARDAR","country":"North Macedonia","active":"N"}
 ,
 {"id":"695","name":"Air VIA","alias":"\\N","iata":"VL","icao":"VIM","callsign":"","country":"Bulgaria","active":"Y"}
 ,
@@ -2537,7 +2537,7 @@
 ,
 {"id":"1270","name":"Airspeed Aviation","alias":"\\N","iata":"","icao":"SPD","callsign":"SPEEDLINE","country":"Canada","active":"N"}
 ,
-{"id":"1271","name":"Air Service","alias":"\\N","iata":"M3","icao":"SPJ","callsign":"AIR SKOPJE","country":"Macedonia","active":"N"}
+{"id":"1271","name":"Air Service","alias":"\\N","iata":"M3","icao":"SPJ","callsign":"AIR SKOPJE","country":"North Macedonia","active":"N"}
 ,
 {"id":"1272","name":"Aeroservicios Ejecutivos Del Pacifico","alias":"\\N","iata":"","icao":"SPO","callsign":"EJECTUIV PACIFICO","country":"Mexico","active":"N"}
 ,
@@ -2909,7 +2909,7 @@
 ,
 {"id":"1456","name":"British North West Airlines","alias":"\\N","iata":"","icao":"BNW","callsign":"BRITISH NORTH","country":"United Kingdom","active":"N"}
 ,
-{"id":"1457","name":"Boniair","alias":"\\N","iata":"","icao":"BOA","callsign":"KUMANOVO","country":"Macedonia","active":"N"}
+{"id":"1457","name":"Boniair","alias":"\\N","iata":"","icao":"BOA","callsign":"KUMANOVO","country":"North Macedonia","active":"N"}
 ,
 {"id":"1458","name":"Bond Air Services","alias":"\\N","iata":"","icao":"BOD","callsign":"UGABOND","country":"Uganda","active":"N"}
 ,
@@ -6689,7 +6689,7 @@
 ,
 {"id":"3349","name":"MasAir","alias":"\\N","iata":"M7","icao":"MAA","callsign":"MAS CARGA","country":"Mexico","active":"Y"}
 ,
-{"id":"3350","name":"MAT Macedonian Airlines","alias":"\\N","iata":"IN","icao":"MAK","callsign":"MAKAVIO","country":"Macedonia","active":"Y"}
+{"id":"3350","name":"MAT Macedonian Airlines","alias":"\\N","iata":"IN","icao":"MAK","callsign":"MAKAVIO","country":"North Macedonia","active":"Y"}
 ,
 {"id":"3351","name":"MCC Aviation","alias":"\\N","iata":"","icao":"MCC","callsign":"DISCOVERY","country":"South Africa","active":"N"}
 ,
@@ -11719,7 +11719,7 @@
 ,
 {"id":"16942","name":"Mauritania Airlines International","alias":"","iata":"L6","icao":"MAI","callsign":"","country":"Mauritania","active":"Y"}
 ,
-{"id":"16956","name":"MAT Airways","alias":"","iata":"6F","icao":"MKD","callsign":"","country":"Macedonia","active":"Y"}
+{"id":"16956","name":"MAT Airways","alias":"","iata":"6F","icao":"MKD","callsign":"","country":"North Macedonia","active":"Y"}
 ,
 {"id":"16960","name":"Asian Wings Airways","alias":"","iata":"AW","icao":"AWM","callsign":"Asian Star","country":"Myanmar (Burma)","active":"Y"}
 ,
