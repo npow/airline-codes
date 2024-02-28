@@ -3143,7 +3143,7 @@
 ,
 {"id":"1573","name":"Boskovic Air Charters Limited","alias":"\\N","iata":"","icao":"ZBA","callsign":"BOSKY","country":"Kenya","active":"N"}
 ,
-{"id":"1574","name":"C Air Jet Airlines","alias":"\\N","iata":"","icao":"SRJ","callsign":"SYRJET","country":"Syrian Arab Republic","active":"N"}
+{"id":"1574","name":"C Air Jet Airlines","alias":"\\N","iata":"","icao":"SRJ","callsign":"SYRJET","country":"Syria","active":"N"}
 ,
 {"id":"1575","name":"C N Air","alias":"\\N","iata":"","icao":"ORO","callsign":"CAPRI","country":"Spain","active":"N"}
 ,
@@ -3945,7 +3945,7 @@
 ,
 {"id":"1974","name":"Dallas Express Airlines","alias":"\\N","iata":"","icao":"DXP","callsign":"DALLAS EXPRESS","country":"United States","active":"N"}
 ,
-{"id":"1975","name":"Damascene Airways","alias":"\\N","iata":"","icao":"DAS","callsign":"AIRDAM","country":"Syrian Arab Republic","active":"N"}
+{"id":"1975","name":"Damascene Airways","alias":"\\N","iata":"","icao":"DAS","callsign":"AIRDAM","country":"Syria","active":"N"}
 ,
 {"id":"1976","name":"Danbury Airways","alias":"\\N","iata":"","icao":"DSA","callsign":"DANBURY AIRWAYS","country":"United States","active":"N"}
 ,
@@ -7603,7 +7603,7 @@
 ,
 {"id":"3807","name":"Organizacoes Mambra","alias":"\\N","iata":"","icao":"OML","callsign":"MAMBRA","country":"Angola","active":"N"}
 ,
-{"id":"3808","name":"Orient Air","alias":"\\N","iata":"","icao":"OVV","callsign":"ORIENTSYR","country":"Syrian Arab Republic","active":"N"}
+{"id":"3808","name":"Orient Air","alias":"\\N","iata":"","icao":"OVV","callsign":"ORIENTSYR","country":"Syria","active":"N"}
 ,
 {"id":"3809","name":"Orient Airlines","alias":"\\N","iata":"","icao":"OTR","callsign":"ORIENTROC","country":"Sudan","active":"N"}
 ,
@@ -8623,7 +8623,7 @@
 ,
 {"id":"4320","name":"Samal Air","alias":"\\N","iata":"","icao":"SAV","callsign":"","country":"Kazakhstan","active":"N"}
 ,
-{"id":"4321","name":"Sham Wing Airlines","alias":"\\N","iata":"","icao":"SAW","callsign":"SHAMWING","country":"Syrian Arab Republic","active":"N"}
+{"id":"4321","name":"Sham Wing Airlines","alias":"\\N","iata":"","icao":"SAW","callsign":"SHAMWING","country":"Syria","active":"N"}
 ,
 {"id":"4322","name":"Sabah Air","alias":"\\N","iata":"","icao":"SAX","callsign":"SABAH AIR","country":"Malaysia","active":"N"}
 ,
@@ -9153,7 +9153,7 @@
 ,
 {"id":"4585","name":"Syncrude Canada","alias":"\\N","iata":"","icao":"SYN","callsign":"SYNCRUDE","country":"Canada","active":"N"}
 ,
-{"id":"4586","name":"Syrian Arab Airlines","alias":"\\N","iata":"RB","icao":"SYR","callsign":"SYRIANAIR","country":"Syrian Arab Republic","active":"Y"}
+{"id":"4586","name":"Syrian Arab Airlines","alias":"\\N","iata":"RB","icao":"SYR","callsign":"SYRIANAIR","country":"Syria","active":"Y"}
 ,
 {"id":"4587","name":"Shawbury Flying Training Unit","alias":"\\N","iata":"","icao":"SYS","callsign":"SHAWBURY","country":"United Kingdom","active":"N"}
 ,
