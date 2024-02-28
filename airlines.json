@@ -11275,9 +11275,9 @@
 ,
 {"id":"11804","name":"Halcyonair","alias":"","iata":"7Z","icao":"\\N","callsign":"CREOLE","country":"Cape Verde","active":"Y"}
 ,
-{"id":"11805","name":"Business Aviation","alias":"","iata":"4P","icao":"\\N","callsign":"AFRICAN BUSINESS","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"11805","name":"Business Aviation","alias":"","iata":"4P","icao":"\\N","callsign":"AFRICAN BUSINESS","country":"Democratic Republic of the Congo","active":"Y"}
 ,
-{"id":"11806","name":"Compagnie Africaine d\\\\'Aviation","alias":"","iata":"E9","icao":"\\N","callsign":"AFRICOMPANY","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"11806","name":"Compagnie Africaine d\\\\'Aviation","alias":"","iata":"E9","icao":"\\N","callsign":"AFRICOMPANY","country":"Democratic Republic of the Congo","active":"Y"}
 ,
 {"id":"11808","name":"Zambia Skyways","alias":"","iata":"K8","icao":"\\N","callsign":"ZAMBIA SKIES","country":"Zambia","active":"Y"}
 ,
@@ -11465,7 +11465,7 @@
 ,
 {"id":"14118","name":"Genesis","alias":"","iata":"GK","icao":"\\N","callsign":"","country":"Pakistan","active":"Y"}
 ,
-{"id":"14388","name":"Congo Express","alias":"","iata":"XZ","icao":"\\N","callsign":"EXPRESSWAYS","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"14388","name":"Congo Express","alias":"","iata":"XZ","icao":"\\N","callsign":"EXPRESSWAYS","country":"Democratic Republic of the Congo","active":"Y"}
 ,
 {"id":"14485","name":"Fly Dubai","alias":"","iata":"FZ","icao":"FDB","callsign":"","country":"United Arab Emirates","active":"Y"}
 ,
@@ -11801,7 +11801,7 @@
 ,
 {"id":"17780","name":"Michael Airlines","alias":"Javi","iata":"DF","icao":"MJG","callsign":"MJG","country":"Puerto Rico","active":"Y"}
 ,
-{"id":"17786","name":"Korongo Airlines","alias":"","iata":"ZC","icao":"KGO","callsign":"KORONGO","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"17786","name":"Korongo Airlines","alias":"","iata":"ZC","icao":"KGO","callsign":"KORONGO","country":"Democratic Republic of the Congo","active":"Y"}
 ,
 {"id":"17794","name":"Indonesia Sky","alias":"","iata":"I5","icao":"IDS","callsign":"","country":"Indonesia","active":"Y"}
 ,
@@ -11927,7 +11927,7 @@
 ,
 {"id":"18749","name":"Tramm Airlines","alias":"Tramm Airlines","iata":"9F","icao":"TLM","callsign":"9F","country":"Netherlands Antilles","active":"N"}
 ,
-{"id":"18762","name":"Lina Congo","alias":"","iata":"GC","icao":"\\N","callsign":"","country":"Congo (Brazzaville)","active":"N"}
+{"id":"18762","name":"Lina Congo","alias":"","iata":"GC","icao":"\\N","callsign":"","country":"Republic of the Congo","active":"N"}
 ,
 {"id":"18781","name":"Hermes Airlines","alias":"","iata":"","icao":"HRM","callsign":"HERMES","country":"Greece","active":"Y"}
 ,
