@@ -3355,7 +3355,7 @@
 ,
 {"id":"1679","name":"Catex","alias":"\\N","iata":"","icao":"TEX","callsign":"CATEX","country":"France","active":"N"}
 ,
-{"id":"1680","name":"Cathay Pacific","alias":"\\N","iata":"CX","icao":"CPA","callsign":"CATHAY","country":"Hong Kong SAR of China","active":"Y"}
+{"id":"1680","name":"Cathay Pacific","alias":"\\N","iata":"CX","icao":"CPA","callsign":"CATHAY","country":"Hong Kong","active":"Y"}
 ,
 {"id":"1681","name":"Caverton Helicopters","alias":"\\N","iata":"","icao":"CJR","callsign":"CAVERTON AIR","country":"Nigeria","active":"N"}
 ,
@@ -4107,7 +4107,7 @@
 ,
 {"id":"2055","name":"Dos Mundos","alias":"\\N","iata":"","icao":"DOM","callsign":"DOS MUNDOS","country":"Dominican Republic","active":"N"}
 ,
-{"id":"2056","name":"Dragonair","alias":"\\N","iata":"KA","icao":"HDA","callsign":" Hong Kong Dragon Airlines","country":"DRAGON","active":"Y"}
+{"id":"2056","name":"Dragonair","alias":"\\N","iata":"KA","icao":"HDA","callsign":" Hong Kong Dragon Airlines","country":"Hong Kong","active":"Y"}
 ,
 {"id":"2057","name":"Dreamcatcher Airways","alias":"\\N","iata":"","icao":"DCA","callsign":"DREAM CATCHER","country":"United Kingdom","active":"N"}
 ,
@@ -5189,7 +5189,7 @@
 ,
 {"id":"2596","name":"Gorlitsa Airlines","alias":"\\N","iata":"","icao":"GOR","callsign":"GORLITSA","country":"Ukraine","active":"N"}
 ,
-{"id":"2597","name":"Government Flying Service","alias":"\\N","iata":"","icao":"HKG","callsign":"HONGKONG GOVERNMENT","country":"Hong Kong SAR of China","active":"N"}
+{"id":"2597","name":"Government Flying Service","alias":"\\N","iata":"","icao":"HKG","callsign":"HONGKONG GOVERNMENT","country":"Hong Kong","active":"N"}
 ,
 {"id":"2598","name":"Government of Zambia Communications Flight","alias":"\\N","iata":"","icao":"GRZ","callsign":"COM FLIGHT","country":"Zambia","active":"N"}
 ,
@@ -5539,9 +5539,9 @@
 ,
 {"id":"2772","name":"Honduras Airlines","alias":"\\N","iata":"","icao":"HAS","callsign":"HONDURAS AIR","country":"Honduras","active":"N"}
 ,
-{"id":"2773","name":"Hong Kong Airlines","alias":"\\N","iata":"HX","icao":"CRK","callsign":"BAUHINIA","country":"Hong Kong SAR of China","active":"Y"}
+{"id":"2773","name":"Hong Kong Airlines","alias":"\\N","iata":"HX","icao":"CRK","callsign":"BAUHINIA","country":"Hong Kong","active":"Y"}
 ,
-{"id":"2774","name":"Hong Kong Express Airways","alias":"\\N","iata":"UO","icao":"HKE","callsign":"HONGKONG SHUTTLE","country":"Hong Kong SAR of China","active":"Y"}
+{"id":"2774","name":"Hong Kong Express Airways","alias":"\\N","iata":"UO","icao":"HKE","callsign":"HONGKONG SHUTTLE","country":"Hong Kong","active":"Y"}
 ,
 {"id":"2775","name":"Honiara Cargo Express","alias":"\\N","iata":"","icao":"HEX","callsign":"HONIARA CARGO","country":"Solomon Islands","active":"N"}
 ,
@@ -6935,7 +6935,7 @@
 ,
 {"id":"3473","name":"Metroflight","alias":"\\N","iata":"","icao":"MTR","callsign":"METRO","country":"United States","active":"N"}
 ,
-{"id":"3474","name":"Metrojet","alias":"\\N","iata":"","icao":"MTJ","callsign":"METROJET","country":"Hong Kong SAR of China","active":"N"}
+{"id":"3474","name":"Metrojet","alias":"\\N","iata":"","icao":"MTJ","callsign":"METROJET","country":"Hong Kong","active":"N"}
 ,
 {"id":"3475","name":"Metropix UK","alias":"\\N","iata":"","icao":"PIX","callsign":"METROPIX","country":"United Kingdom","active":"N"}
 ,
