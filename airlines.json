@@ -1937,7 +1937,7 @@
 ,
 {"id":"969","name":"Aviainvest","alias":"\\N","iata":"","icao":"IWS","callsign":"","country":"Russia","active":"N"}
 ,
-{"id":"970","name":"Air Bagan","alias":"\\N","iata":"W9","icao":"JAB","callsign":"AIR BAGAN","country":"Myanmar","active":"Y"}
+{"id":"970","name":"Air Bagan","alias":"\\N","iata":"W9","icao":"JAB","callsign":"AIR BAGAN","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"971","name":"Aerojal","alias":"\\N","iata":"","icao":"JAD","callsign":"AEROJAL","country":"Mexico","active":"N"}
 ,
@@ -7125,9 +7125,9 @@
 ,
 {"id":"3568","name":"MyTravel Airways","alias":"\\N","iata":"VZ","icao":"MYT","callsign":"KESTREL","country":"United Kingdom","active":"Y"}
 ,
-{"id":"3569","name":"Myanma Airways","alias":"\\N","iata":"UB","icao":"UBA","callsign":"UNIONAIR","country":"Myanmar","active":"Y"}
+{"id":"3569","name":"Myanma Airways","alias":"\\N","iata":"UB","icao":"UBA","callsign":"UNIONAIR","country":"Myanmar (Burma)","active":"Y"}
 ,
-{"id":"3570","name":"Myanmar Airways International","alias":"\\N","iata":"8M","icao":"MMM","callsign":"assignment postponed","country":"Myanmar","active":"Y"}
+{"id":"3570","name":"Myanmar Airways International","alias":"\\N","iata":"8M","icao":"MMM","callsign":"assignment postponed","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"3571","name":"Myflug","alias":"\\N","iata":"","icao":"MYA","callsign":"MYFLUG","country":"Iceland","active":"Y"}
 ,
@@ -11973,7 +11973,7 @@
 ,
 {"id":"19232","name":"Nürnberger Flugdienst","alias":"","iata":"","icao":"NFD","callsign":"","country":"Germany","active":"N"}
 ,
-{"id":"19244","name":"Golden Myanmar Airlines","alias":"","iata":"","icao":"GMR","callsign":"Golden Myanmar","country":"Burma","active":"Y"}
+{"id":"19244","name":"Golden Myanmar Airlines","alias":"","iata":"","icao":"GMR","callsign":"Golden Myanmar","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"19262","name":"ViznAir","alias":"","iata":"","icao":"VZA","callsign":"Brian","country":"United States","active":"N"}
 ,
@@ -12095,7 +12095,7 @@
 ,
 {"id":"19845","name":"FTI Fluggesellschaft","alias":"","iata":"","icao":"FTI","callsign":"","country":"Germany","active":"N"}
 ,
-{"id":"19846","name":"Myanmar Airways International","alias":"","iata":"8M","icao":"MMA","callsign":"MYANMAR","country":"Myanmar","active":"Y"}
+{"id":"19846","name":"Myanmar Airways International","alias":"","iata":"8M","icao":"MMA","callsign":"MYANMAR","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"19847","name":"Vistara","alias":"","iata":"UK","icao":"VTI","callsign":"VISTARA","country":"India","active":"Y"}
 ,
