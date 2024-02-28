@@ -819,7 +819,7 @@
 ,
 {"id":"410","name":"Aerocondor","alias":"\\N","iata":"2B","icao":"ARD","callsign":"AEROCONDOR","country":"Portugal","active":"Y"}
 ,
-{"id":"411","name":"Aires","alias":"\\N","iata":"4C","icao":"ARE","callsign":" Aerovias de Integracion Regional","country":" S.A.","active":"Y"}
+{"id":"411","name":"Aires","alias":"\\N","iata":"4C","icao":"ARE","callsign":" Aerovias de Integracion Regional","country":"Colombia","active":"Y"}
 ,
 {"id":"412","name":"Aerolineas Argentinas","alias":"\\N","iata":"AR","icao":"ARG","callsign":"ARGENTINA","country":"Argentina","active":"Y"}
 ,
@@ -1027,7 +1027,7 @@
 ,
 {"id":"514","name":"Australian Airlines","alias":"\\N","iata":"AO","icao":"AUZ","callsign":"AUSTRALIAN","country":"Australia","active":"N"}
 ,
-{"id":"515","name":"Avianca - Aerovias Nacionales de Colombia","alias":"\\N","iata":"AV","icao":"AVA","callsign":" S.A.","country":"AVIANCA","active":"Y"}
+{"id":"515","name":"Avianca - Aerovias Nacionales de Colombia","alias":"\\N","iata":"AV","icao":"AVA","callsign":" S.A.","country":"Colombia","active":"Y"}
 ,
 {"id":"516","name":"Aviation Beaufort","alias":"\\N","iata":"","icao":"AVB","callsign":"BEAUPAIR","country":"United Kingdom","active":"N"}
 ,
