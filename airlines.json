@@ -1445,7 +1445,7 @@
 ,
 {"id":"723","name":"Airlines 400","alias":"\\N","iata":"","icao":"VAZ","callsign":"REMONT AIR","country":"Russia","active":"N"}
 ,
-{"id":"724","name":"ATRAN Cargo Airlines","alias":"\\N","iata":"V8","icao":"VAS","callsign":"ATRAN","country":"Russian Federation","active":"Y"}
+{"id":"724","name":"ATRAN Cargo Airlines","alias":"\\N","iata":"V8","icao":"VAS","callsign":"ATRAN","country":"Russia","active":"Y"}
 ,
 {"id":"725","name":"Ameravia","alias":"\\N","iata":"","icao":"VAM","callsign":"AMERAVIA","country":"Uruguay","active":"N"}
 ,
@@ -2213,7 +2213,7 @@
 ,
 {"id":"1107","name":"Aeroland Airways","alias":"\\N","iata":"3S","icao":"","callsign":"","country":"Greece","active":"N"}
 ,
-{"id":"1109","name":"Astair","alias":"\\N","iata":"8D","icao":"","callsign":"","country":"Russian Federation","active":"Y"}
+{"id":"1109","name":"Astair","alias":"\\N","iata":"8D","icao":"","callsign":"","country":"Russia","active":"Y"}
 ,
 {"id":"1110","name":"Albarka Air","alias":"\\N","iata":"F4","icao":"NBK","callsign":"AL-AIR","country":"Nigeria","active":"N"}
 ,
@@ -2391,7 +2391,7 @@
 ,
 {"id":"1197","name":"Air Archipels","alias":"\\N","iata":"","icao":"RHL","callsign":"ARCHIPELS","country":"France","active":"N"}
 ,
-{"id":"1198","name":"Aviation Ministry of the Interior of the Russian Federation","alias":"\\N","iata":"","icao":"RIF","callsign":"INTERMIN AVIA","country":"Russian Federation","active":"N"}
+{"id":"1198","name":"Aviation Ministry of the Interior of the Russian Federation","alias":"\\N","iata":"","icao":"RIF","callsign":"INTERMIN AVIA","country":"Russia","active":"N"}
 ,
 {"id":"1199","name":"Aeris Gestion","alias":"\\N","iata":"","icao":"RIS","callsign":"AERIS","country":"Spain","active":"N"}
 ,
