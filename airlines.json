@@ -53,7 +53,7 @@
 ,
 {"id":"27","name":"Aerovista Airlines","alias":"\\N","iata":"","icao":"AAP","callsign":"AEROVISTA GROUP","country":"United Arab Emirates","active":"N"}
 ,
-{"id":"28","name":"Asiana Airlines","alias":"\\N","iata":"OZ","icao":"AAR","callsign":"ASIANA","country":"Republic of Korea","active":"Y"}
+{"id":"28","name":"Asiana Airlines","alias":"\\N","iata":"OZ","icao":"AAR","callsign":"ASIANA","country":"South Korea","active":"Y"}
 ,
 {"id":"29","name":"Askari Aviation","alias":"\\N","iata":"4K","icao":"AAS","callsign":"AL-AAS","country":"Pakistan","active":"Y"}
 ,
@@ -133,7 +133,7 @@
 ,
 {"id":"67","name":"Aztec Worldwide Airlines","alias":"\\N","iata":"7A","icao":"","callsign":"","country":"United States","active":"N"}
 ,
-{"id":"68","name":"Air Tindi","alias":"\\N","iata":"8T","icao":"","callsign":"","country":"Canadian Territories","active":"Y"}
+{"id":"68","name":"Air Tindi","alias":"\\N","iata":"8T","icao":"","callsign":"","country":"Canada","active":"Y"}
 ,
 {"id":"69","name":"Antonov Airlines","alias":"\\N","iata":"","icao":"ADB","callsign":"ANTONOV BUREAU","country":"Ukraine","active":"N"}
 ,
@@ -501,7 +501,7 @@
 ,
 {"id":"251","name":"Ajet","alias":"\\N","iata":"","icao":"AJY","callsign":"AYJET","country":"Cyprus","active":"N"}
 ,
-{"id":"252","name":"Air Korea Co. Ltd.","alias":"\\N","iata":"","icao":"AKA","callsign":"","country":"Republic of Korea","active":"Y"}
+{"id":"252","name":"Air Korea Co. Ltd.","alias":"\\N","iata":"","icao":"AKA","callsign":"","country":"South Korea","active":"Y"}
 ,
 {"id":"253","name":"Air Livonia","alias":"\\N","iata":"","icao":"LIV","callsign":"LIVONIA","country":"Estonia","active":"N"}
 ,
@@ -629,7 +629,7 @@
 ,
 {"id":"315","name":"ATA Airlines","alias":"\\N","iata":"","icao":"AMT","callsign":"AMTRAN","country":"United States","active":"Y"}
 ,
-{"id":"316","name":"Air Macau","alias":"\\N","iata":"NX","icao":"AMU","callsign":"AIR MACAO","country":"Macao","active":"Y"}
+{"id":"316","name":"Air Macau","alias":"\\N","iata":"NX","icao":"AMU","callsign":"AIR MACAO","country":"Macau","active":"Y"}
 ,
 {"id":"317","name":"AMC Airlines","alias":"\\N","iata":"","icao":"AMV","callsign":"","country":"Egypt","active":"Y"}
 ,
@@ -819,7 +819,7 @@
 ,
 {"id":"410","name":"Aerocondor","alias":"\\N","iata":"2B","icao":"ARD","callsign":"AEROCONDOR","country":"Portugal","active":"Y"}
 ,
-{"id":"411","name":"Aires","alias":"\\N","iata":"4C","icao":"ARE","callsign":" Aerovias de Integracion Regional","country":" S.A.","active":"Y"}
+{"id":"411","name":"Aires","alias":"\\N","iata":"4C","icao":"ARE","callsign":" Aerovias de Integracion Regional","country":"Colombia","active":"Y"}
 ,
 {"id":"412","name":"Aerolineas Argentinas","alias":"\\N","iata":"AR","icao":"ARG","callsign":"ARGENTINA","country":"Argentina","active":"Y"}
 ,
@@ -1027,7 +1027,7 @@
 ,
 {"id":"514","name":"Australian Airlines","alias":"\\N","iata":"AO","icao":"AUZ","callsign":"AUSTRALIAN","country":"Australia","active":"N"}
 ,
-{"id":"515","name":"Avianca - Aerovias Nacionales de Colombia","alias":"\\N","iata":"AV","icao":"AVA","callsign":" S.A.","country":"AVIANCA","active":"Y"}
+{"id":"515","name":"Avianca - Aerovias Nacionales de Colombia","alias":"\\N","iata":"AV","icao":"AVA","callsign":" S.A.","country":"Colombia","active":"Y"}
 ,
 {"id":"516","name":"Aviation Beaufort","alias":"\\N","iata":"","icao":"AVB","callsign":"BEAUPAIR","country":"United Kingdom","active":"N"}
 ,
@@ -1171,7 +1171,7 @@
 ,
 {"id":"586","name":"Aviaxess","alias":"\\N","iata":"","icao":"AXV","callsign":"AXAVIA","country":"France","active":"N"}
 ,
-{"id":"587","name":"Avioimpex A.D.p.o.","alias":"\\N","iata":"","icao":"AXX","callsign":"IMPEX","country":"Macedonia","active":"N"}
+{"id":"587","name":"Avioimpex A.D.p.o.","alias":"\\N","iata":"","icao":"AXX","callsign":"IMPEX","country":"North Macedonia","active":"N"}
 ,
 {"id":"588","name":"Axis Airways","alias":"\\N","iata":"6V","icao":"AXY","callsign":"AXIS","country":"France","active":"N"}
 ,
@@ -1385,7 +1385,7 @@
 ,
 {"id":"693","name":"Air Urga","alias":"\\N","iata":"3N","icao":"URG","callsign":"URGA","country":"Ukraine","active":"N"}
 ,
-{"id":"694","name":"Air Vardar","alias":"\\N","iata":"","icao":"VDR","callsign":"VARDAR","country":"Macedonia","active":"N"}
+{"id":"694","name":"Air Vardar","alias":"\\N","iata":"","icao":"VDR","callsign":"VARDAR","country":"North Macedonia","active":"N"}
 ,
 {"id":"695","name":"Air VIA","alias":"\\N","iata":"VL","icao":"VIM","callsign":"","country":"Bulgaria","active":"Y"}
 ,
@@ -1445,7 +1445,7 @@
 ,
 {"id":"723","name":"Airlines 400","alias":"\\N","iata":"","icao":"VAZ","callsign":"REMONT AIR","country":"Russia","active":"N"}
 ,
-{"id":"724","name":"ATRAN Cargo Airlines","alias":"\\N","iata":"V8","icao":"VAS","callsign":"ATRAN","country":"Russian Federation","active":"Y"}
+{"id":"724","name":"ATRAN Cargo Airlines","alias":"\\N","iata":"V8","icao":"VAS","callsign":"ATRAN","country":"Russia","active":"Y"}
 ,
 {"id":"725","name":"Ameravia","alias":"\\N","iata":"","icao":"VAM","callsign":"AMERAVIA","country":"Uruguay","active":"N"}
 ,
@@ -1937,7 +1937,7 @@
 ,
 {"id":"969","name":"Aviainvest","alias":"\\N","iata":"","icao":"IWS","callsign":"","country":"Russia","active":"N"}
 ,
-{"id":"970","name":"Air Bagan","alias":"\\N","iata":"W9","icao":"JAB","callsign":"AIR BAGAN","country":"Myanmar","active":"Y"}
+{"id":"970","name":"Air Bagan","alias":"\\N","iata":"W9","icao":"JAB","callsign":"AIR BAGAN","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"971","name":"Aerojal","alias":"\\N","iata":"","icao":"JAD","callsign":"AEROJAL","country":"Mexico","active":"N"}
 ,
@@ -1965,7 +1965,7 @@
 ,
 {"id":"983","name":"Air Canada Jazz","alias":"\\N","iata":"QK","icao":"JZA","callsign":"JAZZ","country":"Canada","active":"Y"}
 ,
-{"id":"984","name":"Asia Aero Survey and Consulting Engineers","alias":"\\N","iata":"","icao":"KAA","callsign":"AASCO","country":"Republic of Korea","active":"N"}
+{"id":"984","name":"Asia Aero Survey and Consulting Engineers","alias":"\\N","iata":"","icao":"KAA","callsign":"AASCO","country":"South Korea","active":"N"}
 ,
 {"id":"985","name":"Air Kirovograd","alias":"\\N","iata":"","icao":"KAD","callsign":"AIR KIROVOGRAD","country":"Ukraine","active":"N"}
 ,
@@ -1993,7 +1993,7 @@
 ,
 {"id":"997","name":"Aerokaluz","alias":"\\N","iata":"","icao":"KLZ","callsign":"AEROKALUZ","country":"Mexico","active":"N"}
 ,
-{"id":"998","name":"Air Koryo","alias":"\\N","iata":"JS","icao":"KOR","callsign":"AIR KORYO","country":"Democratic People's Republic of Korea","active":"Y"}
+{"id":"998","name":"Air Koryo","alias":"\\N","iata":"JS","icao":"KOR","callsign":"AIR KORYO","country":"South Korea","active":"Y"}
 ,
 {"id":"999","name":"Araiavia","alias":"\\N","iata":"","icao":"KOY","callsign":"ALEKS","country":"Kazakhstan","active":"N"}
 ,
@@ -2213,7 +2213,7 @@
 ,
 {"id":"1107","name":"Aeroland Airways","alias":"\\N","iata":"3S","icao":"","callsign":"","country":"Greece","active":"N"}
 ,
-{"id":"1109","name":"Astair","alias":"\\N","iata":"8D","icao":"","callsign":"","country":"Russian Federation","active":"Y"}
+{"id":"1109","name":"Astair","alias":"\\N","iata":"8D","icao":"","callsign":"","country":"Russia","active":"Y"}
 ,
 {"id":"1110","name":"Albarka Air","alias":"\\N","iata":"F4","icao":"NBK","callsign":"AL-AIR","country":"Nigeria","active":"N"}
 ,
@@ -2391,7 +2391,7 @@
 ,
 {"id":"1197","name":"Air Archipels","alias":"\\N","iata":"","icao":"RHL","callsign":"ARCHIPELS","country":"France","active":"N"}
 ,
-{"id":"1198","name":"Aviation Ministry of the Interior of the Russian Federation","alias":"\\N","iata":"","icao":"RIF","callsign":"INTERMIN AVIA","country":"Russian Federation","active":"N"}
+{"id":"1198","name":"Aviation Ministry of the Interior of the Russian Federation","alias":"\\N","iata":"","icao":"RIF","callsign":"INTERMIN AVIA","country":"Russia","active":"N"}
 ,
 {"id":"1199","name":"Aeris Gestion","alias":"\\N","iata":"","icao":"RIS","callsign":"AERIS","country":"Spain","active":"N"}
 ,
@@ -2537,7 +2537,7 @@
 ,
 {"id":"1270","name":"Airspeed Aviation","alias":"\\N","iata":"","icao":"SPD","callsign":"SPEEDLINE","country":"Canada","active":"N"}
 ,
-{"id":"1271","name":"Air Service","alias":"\\N","iata":"M3","icao":"SPJ","callsign":"AIR SKOPJE","country":"Macedonia","active":"N"}
+{"id":"1271","name":"Air Service","alias":"\\N","iata":"M3","icao":"SPJ","callsign":"AIR SKOPJE","country":"North Macedonia","active":"N"}
 ,
 {"id":"1272","name":"Aeroservicios Ejecutivos Del Pacifico","alias":"\\N","iata":"","icao":"SPO","callsign":"EJECTUIV PACIFICO","country":"Mexico","active":"N"}
 ,
@@ -2909,7 +2909,7 @@
 ,
 {"id":"1456","name":"British North West Airlines","alias":"\\N","iata":"","icao":"BNW","callsign":"BRITISH NORTH","country":"United Kingdom","active":"N"}
 ,
-{"id":"1457","name":"Boniair","alias":"\\N","iata":"","icao":"BOA","callsign":"KUMANOVO","country":"Macedonia","active":"N"}
+{"id":"1457","name":"Boniair","alias":"\\N","iata":"","icao":"BOA","callsign":"KUMANOVO","country":"North Macedonia","active":"N"}
 ,
 {"id":"1458","name":"Bond Air Services","alias":"\\N","iata":"","icao":"BOD","callsign":"UGABOND","country":"Uganda","active":"N"}
 ,
@@ -3143,7 +3143,7 @@
 ,
 {"id":"1573","name":"Boskovic Air Charters Limited","alias":"\\N","iata":"","icao":"ZBA","callsign":"BOSKY","country":"Kenya","active":"N"}
 ,
-{"id":"1574","name":"C Air Jet Airlines","alias":"\\N","iata":"","icao":"SRJ","callsign":"SYRJET","country":"Syrian Arab Republic","active":"N"}
+{"id":"1574","name":"C Air Jet Airlines","alias":"\\N","iata":"","icao":"SRJ","callsign":"SYRJET","country":"Syria","active":"N"}
 ,
 {"id":"1575","name":"C N Air","alias":"\\N","iata":"","icao":"ORO","callsign":"CAPRI","country":"Spain","active":"N"}
 ,
@@ -3355,7 +3355,7 @@
 ,
 {"id":"1679","name":"Catex","alias":"\\N","iata":"","icao":"TEX","callsign":"CATEX","country":"France","active":"N"}
 ,
-{"id":"1680","name":"Cathay Pacific","alias":"\\N","iata":"CX","icao":"CPA","callsign":"CATHAY","country":"Hong Kong SAR of China","active":"Y"}
+{"id":"1680","name":"Cathay Pacific","alias":"\\N","iata":"CX","icao":"CPA","callsign":"CATHAY","country":"Hong Kong","active":"Y"}
 ,
 {"id":"1681","name":"Caverton Helicopters","alias":"\\N","iata":"","icao":"CJR","callsign":"CAVERTON AIR","country":"Nigeria","active":"N"}
 ,
@@ -3945,7 +3945,7 @@
 ,
 {"id":"1974","name":"Dallas Express Airlines","alias":"\\N","iata":"","icao":"DXP","callsign":"DALLAS EXPRESS","country":"United States","active":"N"}
 ,
-{"id":"1975","name":"Damascene Airways","alias":"\\N","iata":"","icao":"DAS","callsign":"AIRDAM","country":"Syrian Arab Republic","active":"N"}
+{"id":"1975","name":"Damascene Airways","alias":"\\N","iata":"","icao":"DAS","callsign":"AIRDAM","country":"Syria","active":"N"}
 ,
 {"id":"1976","name":"Danbury Airways","alias":"\\N","iata":"","icao":"DSA","callsign":"DANBURY AIRWAYS","country":"United States","active":"N"}
 ,
@@ -4107,7 +4107,7 @@
 ,
 {"id":"2055","name":"Dos Mundos","alias":"\\N","iata":"","icao":"DOM","callsign":"DOS MUNDOS","country":"Dominican Republic","active":"N"}
 ,
-{"id":"2056","name":"Dragonair","alias":"\\N","iata":"KA","icao":"HDA","callsign":" Hong Kong Dragon Airlines","country":"DRAGON","active":"Y"}
+{"id":"2056","name":"Dragonair","alias":"\\N","iata":"KA","icao":"HDA","callsign":" Hong Kong Dragon Airlines","country":"Hong Kong","active":"Y"}
 ,
 {"id":"2057","name":"Dreamcatcher Airways","alias":"\\N","iata":"","icao":"DCA","callsign":"DREAM CATCHER","country":"United Kingdom","active":"N"}
 ,
@@ -4209,7 +4209,7 @@
 ,
 {"id":"2106","name":"East African Safari Air Express","alias":"\\N","iata":"","icao":"EXZ","callsign":"TWIGA","country":"Kenya","active":"N"}
 ,
-{"id":"2107","name":"East Asia Airlines","alias":"\\N","iata":"","icao":"EMU","callsign":"","country":"Macao","active":"N"}
+{"id":"2107","name":"East Asia Airlines","alias":"\\N","iata":"","icao":"EMU","callsign":"","country":"Macau","active":"N"}
 ,
 {"id":"2108","name":"East Coast Airways","alias":"\\N","iata":"","icao":"ECT","callsign":"EASTWAY","country":"South Africa","active":"N"}
 ,
@@ -5189,7 +5189,7 @@
 ,
 {"id":"2596","name":"Gorlitsa Airlines","alias":"\\N","iata":"","icao":"GOR","callsign":"GORLITSA","country":"Ukraine","active":"N"}
 ,
-{"id":"2597","name":"Government Flying Service","alias":"\\N","iata":"","icao":"HKG","callsign":"HONGKONG GOVERNMENT","country":"Hong Kong SAR of China","active":"N"}
+{"id":"2597","name":"Government Flying Service","alias":"\\N","iata":"","icao":"HKG","callsign":"HONGKONG GOVERNMENT","country":"Hong Kong","active":"N"}
 ,
 {"id":"2598","name":"Government of Zambia Communications Flight","alias":"\\N","iata":"","icao":"GRZ","callsign":"COM FLIGHT","country":"Zambia","active":"N"}
 ,
@@ -5353,7 +5353,7 @@
 ,
 {"id":"2679","name":"Hangard Aviation","alias":"\\N","iata":"","icao":"HGD","callsign":"HANGARD","country":"Mongolia","active":"N"}
 ,
-{"id":"2680","name":"Hansung Airlines","alias":"\\N","iata":"","icao":"HAN","callsign":"HANSUNG AIR","country":"Republic of Korea","active":"N"}
+{"id":"2680","name":"Hansung Airlines","alias":"\\N","iata":"","icao":"HAN","callsign":"HANSUNG AIR","country":"South Korea","active":"N"}
 ,
 {"id":"2681","name":"TUIfly","alias":"\\N","iata":"X3","icao":"HLX","callsign":"YELLOW CAB","country":"Germany","active":"Y"}
 ,
@@ -5539,9 +5539,9 @@
 ,
 {"id":"2772","name":"Honduras Airlines","alias":"\\N","iata":"","icao":"HAS","callsign":"HONDURAS AIR","country":"Honduras","active":"N"}
 ,
-{"id":"2773","name":"Hong Kong Airlines","alias":"\\N","iata":"HX","icao":"CRK","callsign":"BAUHINIA","country":"Hong Kong SAR of China","active":"Y"}
+{"id":"2773","name":"Hong Kong Airlines","alias":"\\N","iata":"HX","icao":"CRK","callsign":"BAUHINIA","country":"Hong Kong","active":"Y"}
 ,
-{"id":"2774","name":"Hong Kong Express Airways","alias":"\\N","iata":"UO","icao":"HKE","callsign":"HONGKONG SHUTTLE","country":"Hong Kong SAR of China","active":"Y"}
+{"id":"2774","name":"Hong Kong Express Airways","alias":"\\N","iata":"UO","icao":"HKE","callsign":"HONGKONG SHUTTLE","country":"Hong Kong","active":"Y"}
 ,
 {"id":"2775","name":"Honiara Cargo Express","alias":"\\N","iata":"","icao":"HEX","callsign":"HONIARA CARGO","country":"Solomon Islands","active":"N"}
 ,
@@ -5969,7 +5969,7 @@
 ,
 {"id":"2987","name":"Japan Airlines","alias":"JAL Japan Airlines","iata":"JL","icao":"JAL","callsign":"JAPANAIR","country":"Japan","active":"Y"}
 ,
-{"id":"2988","name":"Japan Airlines Domestic","alias":"\\N","iata":"JL","icao":"JAL","callsign":"J-BIRD","country":"Japan","active":"Y"}
+{"id":"2988","name":"Japan Airlines Domestic","alias":"\\N","iata":"JL","icao":"JAL","callsign":"J-BIRD","country":"Japan","active":"N"}
 ,
 {"id":"2989","name":"Japan Asia Airways","alias":"\\N","iata":"EG","icao":"JAA","callsign":"ASIA","country":"Japan","active":"Y"}
 ,
@@ -5981,7 +5981,7 @@
 ,
 {"id":"2993","name":"Jazeera Airways","alias":"\\N","iata":"J9","icao":"JZR","callsign":"JAZEERA","country":"Kuwait","active":"Y"}
 ,
-{"id":"2994","name":"Jeju Air","alias":"\\N","iata":"7C","icao":"JJA","callsign":"JEJU AIR","country":"Republic of Korea","active":"Y"}
+{"id":"2994","name":"Jeju Air","alias":"\\N","iata":"7C","icao":"JJA","callsign":"JEJU AIR","country":"South Korea","active":"Y"}
 ,
 {"id":"2995","name":"Jenney Beechcraft","alias":"\\N","iata":"","icao":"JNY","callsign":"JENAIR","country":"United States","active":"N"}
 ,
@@ -6319,7 +6319,7 @@
 ,
 {"id":"3162","name":"Koob-Corp - 96 KFT","alias":"\\N","iata":"","icao":"KOB","callsign":"AUTOFLEX","country":"Hungary","active":"N"}
 ,
-{"id":"3163","name":"Korean Air","alias":"\\N","iata":"KE","icao":"KAL","callsign":"KOREANAIR","country":"Republic of Korea","active":"Y"}
+{"id":"3163","name":"Korean Air","alias":"\\N","iata":"KE","icao":"KAL","callsign":"KOREANAIR","country":"South Korea","active":"Y"}
 ,
 {"id":"3164","name":"Kosmas Air","alias":"\\N","iata":"","icao":"KMG","callsign":"KOSMAS CARGO","country":"Serbia","active":"N"}
 ,
@@ -6689,7 +6689,7 @@
 ,
 {"id":"3349","name":"MasAir","alias":"\\N","iata":"M7","icao":"MAA","callsign":"MAS CARGA","country":"Mexico","active":"Y"}
 ,
-{"id":"3350","name":"MAT Macedonian Airlines","alias":"\\N","iata":"IN","icao":"MAK","callsign":"MAKAVIO","country":"Macedonia","active":"Y"}
+{"id":"3350","name":"MAT Macedonian Airlines","alias":"\\N","iata":"IN","icao":"MAK","callsign":"MAKAVIO","country":"North Macedonia","active":"Y"}
 ,
 {"id":"3351","name":"MCC Aviation","alias":"\\N","iata":"","icao":"MCC","callsign":"DISCOVERY","country":"South Africa","active":"N"}
 ,
@@ -6757,11 +6757,11 @@
 ,
 {"id":"3383","name":"Mall Airways","alias":"\\N","iata":"","icao":"MLS","callsign":"MALL-AIRWAYS","country":"United States","active":"N"}
 ,
-{"id":"3384","name":"Malmo Aviation","alias":"\\N","iata":"","icao":"SCW","callsign":"SCANWING","country":"Sweden","active":"Y"}
+{"id":"3384","name":"Malmo Aviation","alias":"\\N","iata":"","icao":"SCW","callsign":"SCANWING","country":"Sweden","active":"N"}
 ,
 {"id":"3385","name":"Malmoe Air Taxi","alias":"\\N","iata":"","icao":"LOD","callsign":"LOGIC","country":"Sweden","active":"N"}
 ,
-{"id":"3386","name":"Malmö Aviation","alias":"\\N","iata":"TF","icao":"SCW","callsign":"Scanwings","country":"Sweden","active":"Y"}
+{"id":"3386","name":"Malmö Aviation","alias":"\\N","iata":"TF","icao":"SCW","callsign":"Scanwings","country":"Sweden","active":"N"}
 ,
 {"id":"3387","name":"Malta Air Charter","alias":"\\N","iata":"R5","icao":"MAC","callsign":"MALTA CHARTER","country":"Malta","active":"Y"}
 ,
@@ -6935,7 +6935,7 @@
 ,
 {"id":"3473","name":"Metroflight","alias":"\\N","iata":"","icao":"MTR","callsign":"METRO","country":"United States","active":"N"}
 ,
-{"id":"3474","name":"Metrojet","alias":"\\N","iata":"","icao":"MTJ","callsign":"METROJET","country":"Hong Kong SAR of China","active":"N"}
+{"id":"3474","name":"Metrojet","alias":"\\N","iata":"","icao":"MTJ","callsign":"METROJET","country":"Hong Kong","active":"N"}
 ,
 {"id":"3475","name":"Metropix UK","alias":"\\N","iata":"","icao":"PIX","callsign":"METROPIX","country":"United Kingdom","active":"N"}
 ,
@@ -7125,9 +7125,9 @@
 ,
 {"id":"3568","name":"MyTravel Airways","alias":"\\N","iata":"VZ","icao":"MYT","callsign":"KESTREL","country":"United Kingdom","active":"Y"}
 ,
-{"id":"3569","name":"Myanma Airways","alias":"\\N","iata":"UB","icao":"UBA","callsign":"UNIONAIR","country":"Myanmar","active":"Y"}
+{"id":"3569","name":"Myanma Airways","alias":"\\N","iata":"UB","icao":"UBA","callsign":"UNIONAIR","country":"Myanmar (Burma)","active":"Y"}
 ,
-{"id":"3570","name":"Myanmar Airways International","alias":"\\N","iata":"8M","icao":"MMM","callsign":"assignment postponed","country":"Myanmar","active":"Y"}
+{"id":"3570","name":"Myanmar Airways International","alias":"\\N","iata":"8M","icao":"MMM","callsign":"assignment postponed","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"3571","name":"Myflug","alias":"\\N","iata":"","icao":"MYA","callsign":"MYFLUG","country":"Iceland","active":"Y"}
 ,
@@ -7603,7 +7603,7 @@
 ,
 {"id":"3807","name":"Organizacoes Mambra","alias":"\\N","iata":"","icao":"OML","callsign":"MAMBRA","country":"Angola","active":"N"}
 ,
-{"id":"3808","name":"Orient Air","alias":"\\N","iata":"","icao":"OVV","callsign":"ORIENTSYR","country":"Syrian Arab Republic","active":"N"}
+{"id":"3808","name":"Orient Air","alias":"\\N","iata":"","icao":"OVV","callsign":"ORIENTSYR","country":"Syria","active":"N"}
 ,
 {"id":"3809","name":"Orient Airlines","alias":"\\N","iata":"","icao":"OTR","callsign":"ORIENTROC","country":"Sudan","active":"N"}
 ,
@@ -8513,7 +8513,7 @@
 ,
 {"id":"4263","name":"Royal Navy","alias":"\\N","iata":"","icao":"NVY","callsign":"NAVY","country":"United Kingdom","active":"N"}
 ,
-{"id":"4264","name":"Royal Nepal Airlines","alias":"\\N","iata":"RA","icao":"RNA","callsign":"ROYAL NEPAL","country":"Nepal","active":"Y"}
+{"id":"4264","name":"Royal Nepal Airlines","alias":"\\N","iata":"RA","icao":"RNA","callsign":"ROYAL NEPAL","country":"Nepal","active":"N"}
 ,
 {"id":"4265","name":"Royal Netherland Navy","alias":"\\N","iata":"","icao":"NRN","callsign":"NETHERLANDS NAVY","country":"Netherlands","active":"N"}
 ,
@@ -8623,7 +8623,7 @@
 ,
 {"id":"4320","name":"Samal Air","alias":"\\N","iata":"","icao":"SAV","callsign":"","country":"Kazakhstan","active":"N"}
 ,
-{"id":"4321","name":"Sham Wing Airlines","alias":"\\N","iata":"","icao":"SAW","callsign":"SHAMWING","country":"Syrian Arab Republic","active":"N"}
+{"id":"4321","name":"Sham Wing Airlines","alias":"\\N","iata":"","icao":"SAW","callsign":"SHAMWING","country":"Syria","active":"N"}
 ,
 {"id":"4322","name":"Sabah Air","alias":"\\N","iata":"","icao":"SAX","callsign":"SABAH AIR","country":"Malaysia","active":"N"}
 ,
@@ -8815,7 +8815,7 @@
 ,
 {"id":"4416","name":"Shoprite Group","alias":"\\N","iata":"","icao":"SHG","callsign":"SHOP AIR","country":"United Kingdom","active":"N"}
 ,
-{"id":"4417","name":"Seoul Air International","alias":"\\N","iata":"","icao":"SHI","callsign":"SEOUL AIR","country":"Republic of Korea","active":"N"}
+{"id":"4417","name":"Seoul Air International","alias":"\\N","iata":"","icao":"SHI","callsign":"SEOUL AIR","country":"South Korea","active":"N"}
 ,
 {"id":"4418","name":"Sharjah Ruler's Flight","alias":"\\N","iata":"","icao":"SHJ","callsign":"SHARJAH","country":"United Arab Emirates","active":"N"}
 ,
@@ -9101,7 +9101,7 @@
 ,
 {"id":"4559","name":"Swiss International Air Lines","alias":"Swiss Airlines","iata":"LX","icao":"SWR","callsign":"SWISS","country":"Switzerland","active":"Y"}
 ,
-{"id":"4560","name":"Swissair","alias":"\\N","iata":"SR","icao":"SWR","callsign":"Swissair","country":"Switzerland","active":"Y"}
+{"id":"4560","name":"Swissair","alias":"\\N","iata":"SR","icao":"SWR","callsign":"Swissair","country":"Switzerland","active":"N"}
 ,
 {"id":"4561","name":"Sunwest Aviation (Lindquist Investment)","alias":"\\N","iata":"","icao":"SWS","callsign":"SUNNY WEST","country":"United States","active":"N"}
 ,
@@ -9153,7 +9153,7 @@
 ,
 {"id":"4585","name":"Syncrude Canada","alias":"\\N","iata":"","icao":"SYN","callsign":"SYNCRUDE","country":"Canada","active":"N"}
 ,
-{"id":"4586","name":"Syrian Arab Airlines","alias":"\\N","iata":"RB","icao":"SYR","callsign":"SYRIANAIR","country":"Syrian Arab Republic","active":"Y"}
+{"id":"4586","name":"Syrian Arab Airlines","alias":"\\N","iata":"RB","icao":"SYR","callsign":"SYRIANAIR","country":"Syria","active":"Y"}
 ,
 {"id":"4587","name":"Shawbury Flying Training Unit","alias":"\\N","iata":"","icao":"SYS","callsign":"SHAWBURY","country":"United Kingdom","active":"N"}
 ,
@@ -10663,7 +10663,7 @@
 ,
 {"id":"5349","name":"Vistajet","alias":"\\N","iata":"","icao":"VJT","callsign":"VISTA","country":"Canada","active":"N"}
 ,
-{"id":"5350","name":"Viva Macau","alias":"\\N","iata":"ZG","icao":"VVM","callsign":"JACKPOT","country":"Macao","active":"Y"}
+{"id":"5350","name":"Viva Macau","alias":"\\N","iata":"ZG","icao":"VVM","callsign":"JACKPOT","country":"Macau","active":"Y"}
 ,
 {"id":"5351","name":"Volare Airlines","alias":"\\N","iata":"VE","icao":"VLE","callsign":"VOLA","country":"Italy","active":"Y"}
 ,
@@ -11015,7 +11015,7 @@
 ,
 {"id":"5651","name":"Royal Air Cambodge","alias":"","iata":"VJ","icao":"RAC","callsign":"","country":"Cambodia","active":"Y"}
 ,
-{"id":"5813","name":"Air Mandalay","alias":"","iata":"6T","icao":"\\N","callsign":"Six Tango","country":"Burma","active":"Y"}
+{"id":"5813","name":"Air Mandalay","alias":"","iata":"6T","icao":"\\N","callsign":"Six Tango","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"5833","name":"TEA Switzerland","alias":"","iata":"","icao":"4SW","callsign":"","country":"Switzerland","active":"N"}
 ,
@@ -11023,7 +11023,7 @@
 ,
 {"id":"-1","name":"Unknown","alias":"\\N","iata":"-","icao":"N/A","callsign":"\\N","country":"\\N","active":"Y"}
 ,
-{"id":"5982","name":"Air Busan","alias":"\\N","iata":"BX","icao":"ABL","callsign":"Air Busan","country":"Republic of Korea","active":"Y"}
+{"id":"5982","name":"Air Busan","alias":"\\N","iata":"BX","icao":"ABL","callsign":"Air Busan","country":"South Korea","active":"Y"}
 ,
 {"id":"6002","name":"TUI Airlines Belgium","alias":"now Jetairlfy","iata":"TB","icao":"TUB","callsign":"BEAUTY","country":"Belgium","active":"N"}
 ,
@@ -11105,7 +11105,7 @@
 ,
 {"id":"9764","name":"Zest Air","alias":"","iata":"Z2","icao":"\\N","callsign":"","country":"Philippines","active":"Y"}
 ,
-{"id":"9784","name":"Yangon Airways","alias":"","iata":"HK","icao":"\\N","callsign":"Hotel Kilo","country":"Burma","active":"Y"}
+{"id":"9784","name":"Yangon Airways","alias":"","iata":"HK","icao":"\\N","callsign":"Hotel Kilo","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"9793","name":"Transport Aérien Transrégional","alias":"TAT","iata":"IJ","icao":"\\N","callsign":"","country":"France","active":"N"}
 ,
@@ -11275,9 +11275,9 @@
 ,
 {"id":"11804","name":"Halcyonair","alias":"","iata":"7Z","icao":"\\N","callsign":"CREOLE","country":"Cape Verde","active":"Y"}
 ,
-{"id":"11805","name":"Business Aviation","alias":"","iata":"4P","icao":"\\N","callsign":"AFRICAN BUSINESS","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"11805","name":"Business Aviation","alias":"","iata":"4P","icao":"\\N","callsign":"AFRICAN BUSINESS","country":"Democratic Republic of the Congo","active":"Y"}
 ,
-{"id":"11806","name":"Compagnie Africaine d\\\\'Aviation","alias":"","iata":"E9","icao":"\\N","callsign":"AFRICOMPANY","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"11806","name":"Compagnie Africaine d\\\\'Aviation","alias":"","iata":"E9","icao":"\\N","callsign":"AFRICOMPANY","country":"Democratic Republic of the Congo","active":"Y"}
 ,
 {"id":"11808","name":"Zambia Skyways","alias":"","iata":"K8","icao":"\\N","callsign":"ZAMBIA SKIES","country":"Zambia","active":"Y"}
 ,
@@ -11465,7 +11465,7 @@
 ,
 {"id":"14118","name":"Genesis","alias":"","iata":"GK","icao":"\\N","callsign":"","country":"Pakistan","active":"Y"}
 ,
-{"id":"14388","name":"Congo Express","alias":"","iata":"XZ","icao":"\\N","callsign":"EXPRESSWAYS","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"14388","name":"Congo Express","alias":"","iata":"XZ","icao":"\\N","callsign":"EXPRESSWAYS","country":"Democratic Republic of the Congo","active":"Y"}
 ,
 {"id":"14485","name":"Fly Dubai","alias":"","iata":"FZ","icao":"FDB","callsign":"","country":"United Arab Emirates","active":"Y"}
 ,
@@ -11719,9 +11719,9 @@
 ,
 {"id":"16942","name":"Mauritania Airlines International","alias":"","iata":"L6","icao":"MAI","callsign":"","country":"Mauritania","active":"Y"}
 ,
-{"id":"16956","name":"MAT Airways","alias":"","iata":"6F","icao":"MKD","callsign":"","country":"Macedonia","active":"Y"}
+{"id":"16956","name":"MAT Airways","alias":"","iata":"6F","icao":"MKD","callsign":"","country":"North Macedonia","active":"Y"}
 ,
-{"id":"16960","name":"Asian Wings Airways","alias":"","iata":"AW","icao":"AWM","callsign":"Asian Star","country":"Burma","active":"Y"}
+{"id":"16960","name":"Asian Wings Airways","alias":"","iata":"AW","icao":"AWM","callsign":"Asian Star","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"16963","name":"Air Arabia Egypt","alias":"","iata":"E5","icao":"RBG","callsign":"","country":"Egypt","active":"Y"}
 ,
@@ -11801,7 +11801,7 @@
 ,
 {"id":"17780","name":"Michael Airlines","alias":"Javi","iata":"DF","icao":"MJG","callsign":"MJG","country":"Puerto Rico","active":"Y"}
 ,
-{"id":"17786","name":"Korongo Airlines","alias":"","iata":"ZC","icao":"KGO","callsign":"KORONGO","country":"Congo (Kinshasa)","active":"Y"}
+{"id":"17786","name":"Korongo Airlines","alias":"","iata":"ZC","icao":"KGO","callsign":"KORONGO","country":"Democratic Republic of the Congo","active":"Y"}
 ,
 {"id":"17794","name":"Indonesia Sky","alias":"","iata":"I5","icao":"IDS","callsign":"","country":"Indonesia","active":"Y"}
 ,
@@ -11873,11 +11873,11 @@
 ,
 {"id":"18475","name":"Hebei Airlines","alias":"","iata":"","icao":"HBH","callsign":"Hebei Air","country":"China","active":"Y"}
 ,
-{"id":"18476","name":"Air KBZ","alias":"","iata":"","icao":"KBZ","callsign":"Air KBZ","country":"Burma","active":"Y"}
+{"id":"18476","name":"Air KBZ","alias":"","iata":"","icao":"KBZ","callsign":"Air KBZ","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"18477","name":"Aero VIP (2D)","alias":"","iata":"2D","icao":"\\N","callsign":"","country":"Portugal","active":"Y"}
 ,
-{"id":"18497","name":"Yangon Airways Ltd.","alias":"","iata":"YH","icao":"\\N","callsign":"","country":"Burma","active":"Y"}
+{"id":"18497","name":"Yangon Airways Ltd.","alias":"","iata":"YH","icao":"\\N","callsign":"","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"18529","name":"T.J. Air","alias":"","iata":"TJ","icao":"TJA","callsign":"T.J. Air","country":"United States","active":"Y"}
 ,
@@ -11927,7 +11927,7 @@
 ,
 {"id":"18749","name":"Tramm Airlines","alias":"Tramm Airlines","iata":"9F","icao":"TLM","callsign":"9F","country":"Netherlands Antilles","active":"N"}
 ,
-{"id":"18762","name":"Lina Congo","alias":"","iata":"GC","icao":"\\N","callsign":"","country":"Congo (Brazzaville)","active":"N"}
+{"id":"18762","name":"Lina Congo","alias":"","iata":"GC","icao":"\\N","callsign":"","country":"Republic of the Congo","active":"N"}
 ,
 {"id":"18781","name":"Hermes Airlines","alias":"","iata":"","icao":"HRM","callsign":"HERMES","country":"Greece","active":"Y"}
 ,
@@ -11973,7 +11973,7 @@
 ,
 {"id":"19232","name":"Nürnberger Flugdienst","alias":"","iata":"","icao":"NFD","callsign":"","country":"Germany","active":"N"}
 ,
-{"id":"19244","name":"Golden Myanmar Airlines","alias":"","iata":"","icao":"GMR","callsign":"Golden Myanmar","country":"Burma","active":"Y"}
+{"id":"19244","name":"Golden Myanmar Airlines","alias":"","iata":"","icao":"GMR","callsign":"Golden Myanmar","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"19262","name":"ViznAir","alias":"","iata":"","icao":"VZA","callsign":"Brian","country":"United States","active":"N"}
 ,
@@ -12095,9 +12095,9 @@
 ,
 {"id":"19845","name":"FTI Fluggesellschaft","alias":"","iata":"","icao":"FTI","callsign":"","country":"Germany","active":"N"}
 ,
-{"id":"19846","name":"Myanmar Airways International","alias":"","iata":"8M","icao":"MMA","callsign":"MYANMAR","country":"Myanmar","active":"Y"}
+{"id":"19846","name":"Myanmar Airways International","alias":"","iata":"8M","icao":"MMA","callsign":"MYANMAR","country":"Myanmar (Burma)","active":"Y"}
 ,
-{"id":"19847","name":"Vistera","alias":"","iata":"UK","icao":"VTI","callsign":"VISTARA","country":"India","active":"Y"}
+{"id":"19847","name":"Vistara","alias":"","iata":"UK","icao":"VTI","callsign":"VISTARA","country":"India","active":"Y"}
 ,
 {"id":"19848","name":"Urumqi Air","alias":"","iata":"UQ","icao":"CUH","callsign":"LOU LAN","country":"China","active":"Y"}
 ,

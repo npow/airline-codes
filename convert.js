@@ -9,7 +9,7 @@ var readStream = fs.createReadStream('airlines.dat');
 var writeStream = fs.createWriteStream('airlines.json');
 
 var transformer = csv.transform(function(data) {
-  return _.object(columns, data);
+  return _.zipObject(columns, data);
 });
 
 readStream
