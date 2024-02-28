@@ -629,7 +629,7 @@
 ,
 {"id":"315","name":"ATA Airlines","alias":"\\N","iata":"","icao":"AMT","callsign":"AMTRAN","country":"United States","active":"Y"}
 ,
-{"id":"316","name":"Air Macau","alias":"\\N","iata":"NX","icao":"AMU","callsign":"AIR MACAO","country":"Macao","active":"Y"}
+{"id":"316","name":"Air Macau","alias":"\\N","iata":"NX","icao":"AMU","callsign":"AIR MACAO","country":"Macau","active":"Y"}
 ,
 {"id":"317","name":"AMC Airlines","alias":"\\N","iata":"","icao":"AMV","callsign":"","country":"Egypt","active":"Y"}
 ,
@@ -4209,7 +4209,7 @@
 ,
 {"id":"2106","name":"East African Safari Air Express","alias":"\\N","iata":"","icao":"EXZ","callsign":"TWIGA","country":"Kenya","active":"N"}
 ,
-{"id":"2107","name":"East Asia Airlines","alias":"\\N","iata":"","icao":"EMU","callsign":"","country":"Macao","active":"N"}
+{"id":"2107","name":"East Asia Airlines","alias":"\\N","iata":"","icao":"EMU","callsign":"","country":"Macau","active":"N"}
 ,
 {"id":"2108","name":"East Coast Airways","alias":"\\N","iata":"","icao":"ECT","callsign":"EASTWAY","country":"South Africa","active":"N"}
 ,
@@ -10663,7 +10663,7 @@
 ,
 {"id":"5349","name":"Vistajet","alias":"\\N","iata":"","icao":"VJT","callsign":"VISTA","country":"Canada","active":"N"}
 ,
-{"id":"5350","name":"Viva Macau","alias":"\\N","iata":"ZG","icao":"VVM","callsign":"JACKPOT","country":"Macao","active":"Y"}
+{"id":"5350","name":"Viva Macau","alias":"\\N","iata":"ZG","icao":"VVM","callsign":"JACKPOT","country":"Macau","active":"Y"}
 ,
 {"id":"5351","name":"Volare Airlines","alias":"\\N","iata":"VE","icao":"VLE","callsign":"VOLA","country":"Italy","active":"Y"}
 ,
