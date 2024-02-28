@@ -11015,7 +11015,7 @@
 ,
 {"id":"5651","name":"Royal Air Cambodge","alias":"","iata":"VJ","icao":"RAC","callsign":"","country":"Cambodia","active":"Y"}
 ,
-{"id":"5813","name":"Air Mandalay","alias":"","iata":"6T","icao":"\\N","callsign":"Six Tango","country":"Burma","active":"Y"}
+{"id":"5813","name":"Air Mandalay","alias":"","iata":"6T","icao":"\\N","callsign":"Six Tango","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"5833","name":"TEA Switzerland","alias":"","iata":"","icao":"4SW","callsign":"","country":"Switzerland","active":"N"}
 ,
@@ -11105,7 +11105,7 @@
 ,
 {"id":"9764","name":"Zest Air","alias":"","iata":"Z2","icao":"\\N","callsign":"","country":"Philippines","active":"Y"}
 ,
-{"id":"9784","name":"Yangon Airways","alias":"","iata":"HK","icao":"\\N","callsign":"Hotel Kilo","country":"Burma","active":"Y"}
+{"id":"9784","name":"Yangon Airways","alias":"","iata":"HK","icao":"\\N","callsign":"Hotel Kilo","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"9793","name":"Transport Aérien Transrégional","alias":"TAT","iata":"IJ","icao":"\\N","callsign":"","country":"France","active":"N"}
 ,
@@ -11721,7 +11721,7 @@
 ,
 {"id":"16956","name":"MAT Airways","alias":"","iata":"6F","icao":"MKD","callsign":"","country":"Macedonia","active":"Y"}
 ,
-{"id":"16960","name":"Asian Wings Airways","alias":"","iata":"AW","icao":"AWM","callsign":"Asian Star","country":"Burma","active":"Y"}
+{"id":"16960","name":"Asian Wings Airways","alias":"","iata":"AW","icao":"AWM","callsign":"Asian Star","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"16963","name":"Air Arabia Egypt","alias":"","iata":"E5","icao":"RBG","callsign":"","country":"Egypt","active":"Y"}
 ,
@@ -11873,11 +11873,11 @@
 ,
 {"id":"18475","name":"Hebei Airlines","alias":"","iata":"","icao":"HBH","callsign":"Hebei Air","country":"China","active":"Y"}
 ,
-{"id":"18476","name":"Air KBZ","alias":"","iata":"","icao":"KBZ","callsign":"Air KBZ","country":"Burma","active":"Y"}
+{"id":"18476","name":"Air KBZ","alias":"","iata":"","icao":"KBZ","callsign":"Air KBZ","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"18477","name":"Aero VIP (2D)","alias":"","iata":"2D","icao":"\\N","callsign":"","country":"Portugal","active":"Y"}
 ,
-{"id":"18497","name":"Yangon Airways Ltd.","alias":"","iata":"YH","icao":"\\N","callsign":"","country":"Burma","active":"Y"}
+{"id":"18497","name":"Yangon Airways Ltd.","alias":"","iata":"YH","icao":"\\N","callsign":"","country":"Myanmar (Burma)","active":"Y"}
 ,
 {"id":"18529","name":"T.J. Air","alias":"","iata":"TJ","icao":"TJA","callsign":"T.J. Air","country":"United States","active":"Y"}
 ,
