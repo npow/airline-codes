@@ -20,6 +20,8 @@ jobs:
       - name: Fetch latest airlines.dat from OpenFlights
         run: |
           wget -q https://raw.githubusercontent.com/jpatokal/openflights/master/data/airlines.dat
+      - name: Apply local corrections to airlines.dat
+        run: node normalize.js
       - name: Regenerate airlines.json
         run: node convert.js
       - name: Check for changes
