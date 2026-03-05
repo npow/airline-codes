@@ -18,4 +18,11 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       - run: npm install -g npm@latest
       - run: npm install
-      - run: unset NODE_AUTH_TOKEN && npm publish --provenance --access public
+      - name: Publish if version not already published
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          if npm view "airline-codes@$VERSION" version &>/dev/null; then
+            echo "Version $VERSION already published, skipping."
+          else
+            unset NODE_AUTH_TOKEN && npm publish --provenance --access public
+          fi
