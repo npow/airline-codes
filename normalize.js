@@ -56,6 +56,11 @@ csv.parse(content, function(err, records) {
     var id = row[0];
     var original = row.slice();
 
+    // Strip leading spaces from callsign (upstream data corruption)
+    if (row[5] && row[5][0] === ' ') {
+      row[5] = row[5].trim();
+    }
+
     // Apply country name corrections
     var countryIdx = 6;
     if (COUNTRY_CORRECTIONS[row[countryIdx]]) {
