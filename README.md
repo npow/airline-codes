@@ -27,19 +27,27 @@ require('airline-codes/airlines.json');
 
 ## Update the list of Airline Codes
 
-### Fetch Airline codes
+Data is synced automatically every week from [jpatokal/openflights](https://github.com/jpatokal/openflights). To update manually:
 
 ```
 $ wget https://raw.githubusercontent.com/jpatokal/openflights/master/data/airlines.dat
+$ node normalize.js   # apply local corrections (country names, etc.)
+$ node convert.js     # regenerate airlines.json from airlines.dat
 ```
 
-### Generate the list
+### Adding corrections
 
-Convert the list of airlines codes from csv format to JSON.
+Upstream data uses different conventions for some country names and contains occasional data quality issues. `normalize.js` maintains a `COUNTRY_CORRECTIONS` map that is applied automatically after every upstream fetch. To add a new correction, edit the map in `normalize.js`:
 
+```javascript
+var COUNTRY_CORRECTIONS = {
+  'Macao': 'Macau',
+  'Republic of Korea': 'South Korea',
+  // add new entries here ...
+};
 ```
-node convert.js
-```
+
+After editing, re-run the pipeline above to apply the change.
 
 ## Thanks
 

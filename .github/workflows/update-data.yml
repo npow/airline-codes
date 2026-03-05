@@ -10,42 +10,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm install
+          registry-url: 'https://registry.npmjs.org'
+      - run: npm ci
       - name: Fetch latest airlines.dat from OpenFlights
-        run: |
-          wget -q https://raw.githubusercontent.com/jpatokal/openflights/master/data/airlines.dat
+        run: wget -q https://raw.githubusercontent.com/jpatokal/openflights/master/data/airlines.dat
       - name: Apply local corrections to airlines.dat
         run: node normalize.js
       - name: Regenerate airlines.json
         run: node convert.js
-      - name: Check for changes
-        id: diff
+      - name: Commit and push if data changed
         run: |
-          if git diff --quiet airlines.dat airlines.json; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
-      - name: Open PR if data changed
-        if: steps.diff.outputs.changed == 'true'
-        run: |
-          BRANCH="data-update-$(date +%Y%m%d)"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b "$BRANCH"
-          git add airlines.dat airlines.json
-          git commit -m "chore: update airline data from OpenFlights"
-          git push origin "$BRANCH"
-          gh pr create \
-            --title "chore: update airline data from OpenFlights" \
-            --body "Automated data sync from [jpatokal/openflights](https://github.com/jpatokal/openflights). airlines.dat fetched and airlines.json regenerated." \
-            --base master \
-            --head "$BRANCH"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          if git diff --quiet airlines.dat airlines.json; then
+            echo "No data changes, skipping."
+          else
+            npm version patch --no-git-tag-version
+            git add airlines.dat airlines.json package.json package-lock.json
+            git commit -m "chore: update airline data from OpenFlights"
+            git push origin master
+          fi
