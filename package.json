@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/npow/airline-codes/issues"
   },
-  "homepage": "https://github.com/airline/airline-codes",
+  "homepage": "https://github.com/npow/airline-codes",
   "dependencies": {
     "JSONStream": "^1.0.4",
     "backbone": "^1.1.2",
