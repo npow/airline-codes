@@ -1,6 +1,6 @@
 {
   "name": "airline-codes",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Airline codes (IATA) and information pulled from OpenFlights.org.",
   "main": "index.js",
   "scripts": {
