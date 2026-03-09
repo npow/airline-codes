@@ -1,4 +1,7 @@
 # Airline Codes
+
+[![Docs](https://img.shields.io/badge/docs-mintlify-18a34a?style=flat-square)](https://mintlify.com/npow/airline-codes)
+
 > Airline codes (IATA) and information pulled from OpenFlights.org
 
 ## Install
