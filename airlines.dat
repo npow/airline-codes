@@ -113,7 +113,7 @@
 113,Aeroventas,,,AEV,AEROVENTAS,Mexico,N
 114,Aerosvit Airlines,,VV,AEW,AEROSVIT,Ukraine,Y
 115,Airway Express,,,AEX,AVCO,United States,N
-116,Air Italy,,I9,AEY,AIR ITALY,Italy,Y
+116,Air Italy,,I9,AEY,AIR ITALY,Italy,N
 117,Aerial Transit Company,,,AEZ,AERIAL TRANZ,United States,N
 118,Alfa Air,,,AFA,BLUE ALFA,Czech Republic,N
 119,American Falcon,,WK,AFB,AMERICAN FALCON,Argentina,N
@@ -217,7 +217,7 @@
 217,Air Illinois,,,AIL,AIR ILLINOIS,United States,N
 218,Air India Limited,,AI,AIC,AIRINDIA,India,Y
 219,Air Inter Gabon,,,AIG,,Gabon,N
-220,Air Bourbon,,ZB,BUB,BOURBON,Reunion,Y
+220,Air Bourbon,,ZB,BUB,BOURBON,Reunion,N
 221,Air Atlanta Icelandic,,CC,ABD,ATLANTA,Iceland,Y
 222,Air Inuit,,,AIE,AIR INUIT,Canada,N
 223,Air Sureste,,,AIS,SURESTE,Spain,N
@@ -540,7 +540,7 @@
 540,Airlink Zambia,,K8,ZAK,,Zambia,N
 541,Agence Nationale des Aerodromes et de la Meteorologie,,,ZZM,,Ivory Coast,N
 542,Airbus Transport International,,,BGA,BELOUGA,France,N
-543,Air Bangladesh,,B9,BGD,AIR BANGLA,Bangladesh,Y
+543,Air Bangladesh,,B9,BGD,AIR BANGLA,Bangladesh,N
 544,Aviodetachment-28,,,BGF,BULGARIAN,Bulgaria,N
 545,Aero BG,,,BGG,AERO BG,Mexico,N
 546,Aerotaxis De La Bahia,,,BHC,BAHIA,Mexico,N
@@ -572,7 +572,7 @@
 572,Aeromexhaga,,,AXH,AEROMEXHAGA,Mexico,N
 573,Aeron International Airlines,,,AXI,,United States,N
 574,African Express Airways,,,AXK,EXPRESS JET,Kenya,N
-575,Air Exel,,XT,AXL,EXEL COMMUTER,Netherlands,Y
+575,Air Exel,,XT,AXL,EXEL COMMUTER,Netherlands,N
 576,AirAsia,Air Asia,AK,AXM,ASIAN EXPRESS,Malaysia,Y
 577,Alexandair,,,AXN,ALEXANDROS,Greece,N
 578,Aeromax,,,AXP,AEROMAX SPAIN,Spain,N
@@ -592,7 +592,7 @@
 592,Atlantic Airlines,,,AYN,,Nicaragua,N
 593,Awsaj Aviation Services,,,AYS,,Libya,N
 594,Ayeet Aviation & Tourism,,,AYT,AYEET,Israel,N
-595,Atlant-Soyuz Airlines,,3G,AYZ,ATLANT-SOYUZ,Russia,Y
+595,Atlant-Soyuz Airlines,,3G,AYZ,ATLANT-SOYUZ,Russia,N
 596,Alitalia,,AZ,AZA,ALITALIA,Italy,Y
 597,Azamat,,,AZB,TUMARA,Kazakhstan,N
 598,Arcus-Air Logistic,,ZE,AZE,ARCUS AIR,Germany,N
@@ -789,7 +789,7 @@
 789,Australian Customs Service,,,CWP,COASTWATCH,Australia,N
 790,Air One Cityliner,,,CYL,CITYLINER,Italy,N
 791,Air Transport,,,CYO,COYOTE,United States,N
-792,Access Air,,ZA,CYD,CYCLONE,United States,Y
+792,Access Air,,ZA,CYD,CYCLONE,United States,N
 793,Aerocheyenne,,,CYE,AEROCHEYENNE,Mexico,N
 794,Air Algerie,,AH,DAH,AIR ALGERIE,Algeria,Y
 795,Aerovias DAP,,,DAP,DAP,Chile,N
@@ -1407,7 +1407,7 @@
 1408,Bosphorus European Airways,,,BHY,BOSPHORUS,Turkey,N
 1409,Binair,,,BID,BINAIR,Germany,N
 1410,Big Island Air,,,BIG,BIG ISLE,United States,N
-1411,British International Helicopters,,BS,BIH,BRINTEL,United Kingdom,Y
+1411,British International Helicopters,,BS,BIH,BRINTEL,United Kingdom,N
 1412,Billund Air Center,,,BIL,BILAIR,Denmark,N
 1413,Boise Interagency Fire Center,,,BIN,BISON-AIR,United States,N
 1414,Bird Leasing,,,BIR,BIRD AIR,United States,N
@@ -1432,7 +1432,7 @@
 1433,Bali International Air Service,,,BLN,BIAR,Indonesia,N
 1434,Bearskin Lake Air Service,,JV,BLS,BEARSKIN,Canada,Y
 1435,Baltic Aviation,,,BLT,BALTAIR,United States,N
-1436,Bellview Airlines,,B3,BLV,BELLVIEW AIRLINES,Nigeria,Y
+1436,Bellview Airlines,,B3,BLV,BELLVIEW AIRLINES,Nigeria,N
 1437,bmi,bmi British Midland,BD,BMA,MIDLAND,United Kingdom,Y
 1438,British Medical Charter,,,BMD,BRITISH MEDICAL,United Kingdom,N
 1439,Briggs Marine Environmental Services,,,BME,BRIGGS,United Kingdom,N
@@ -1611,7 +1611,7 @@
 1612,Campania Helicopteros De Transporte,,,HSO,HELIASTURIAS,Spain,N
 1613,CanJet,,C6,CJA,CANJET,Canada,N
 1614,Canada Jet Charters,,,PIL,PINNACLE,Canada,N
-1615,Canadian Airlines,,CP,CDN,CANADIAN,Canada,Y
+1615,Canadian Airlines,,CP,CDN,CANADIAN,Canada,N
 1616,Canadian Coast Guard,,,CTG,CANADIAN COAST GUARD,Canada,N
 1617,Canadian Eagle Aviation,,,HIA,HAIDA,Canada,N
 1618,Canadian Forces,,,CFC,CANFORCE,Canada,N
@@ -1786,7 +1786,7 @@
 1787,Citibank,,,XCX,,United States,N
 1788,Citic General Aviation,,,HZX,ZHONGXIN,China,N
 1789,City Airline,,CF,SDR,SWEDESTAR,Sweden,Y
-1790,City Connexion Airlines,,G3,CIX,CONNEXION,Burundi,Y
+1790,City Connexion Airlines,,G3,CIX,CONNEXION,Burundi,N
 1791,City of Bangor,,,XBG,,United States,N
 1792,CityJet,,WX,BCY,CITY-IRELAND,Ireland,Y
 1793,Cityair (Chester) Limited,,,CAQ,AIR CHESTER,United Kingdom,N
@@ -1856,7 +1856,7 @@
 1857,Compania Transportes Aereos Del Sur,,,HSS,TAS HELICOPTEROS,Spain,N
 1858,Compania de Servicios Aereos Tavisa,,,TAV,TAVISA,Spain,N
 1859,Company Flight,,,CYF,COMPANY FLIGHT,Denmark,N
-1860,Compass Airlines,,CP,CPZ,Compass Rose,United States,Y
+1860,Compass Airlines,,CP,CPZ,Compass Rose,United States,N
 1861,Compass International Airways,,,CPS,COMPASS,United Kingdom,N
 1862,Compuflight Operations Service,,,XCO,,United States,N
 1863,Compuserve Incorporated,,,XCS,,United States,N
@@ -1875,11 +1875,11 @@
 1876,Consorcio Aviaxsa,,6A,CHP,AVIACSA,Mexico,Y
 1877,Consorcio Helitec,,,VCH,CONSORCIO HELITEC,Venezuela,N
 1878,Constanta Airline,,,UZA,CONSTANTA,Ukraine,N
-1879,Contact Air,Contactair,C3,KIS,CONTACTAIR,Germany,Y
+1879,Contact Air,Contactair,C3,KIS,CONTACTAIR,Germany,N
 1880,Contel ASC,,,XCL,,United States,N
-1881,Continental Airlines,,CO,COA,CONTINENTAL,United States,Y
+1881,Continental Airlines,,CO,COA,CONTINENTAL,United States,N
 1882,Continental Airways,,PC,PVV,CONTAIR,Russia,N
-1883,Continental Express,,CO,,JETLINK,United States,Y
+1883,Continental Express,,CO,,JETLINK,United States,N
 1884,Continental Micronesia,,CS,CMI,AIR MIKE,United States,Y
 1885,Continental Oil,,,CON,CONOCO,United States,N
 1886,Conviasa,,V0,VCV,CONVIASA,Venezuela,Y
@@ -2047,7 +2047,7 @@
 2048,Domodedovo Airlines,,E3,DMO,DOMODEDOVO,Russia,Y
 2049,Don Avia,,,DVB,DONSEBAI,Kazakhstan,N
 2050,Donair Flying Club,,,DON,DONAIR,United Kingdom,N
-2051,DonbassAero,,5D,UDC,DONBASS AERO,Ukraine,Y
+2051,DonbassAero,,5D,UDC,DONBASS AERO,Ukraine,N
 2052,Dorado Air,,,DAD,DORADO AIR,Dominican Republic,N
 2053,Dornier,,,DOR,DORNIER,Germany,N
 2054,Dornier Aviation Nigeria,,,DAV,DANA AIR,Nigeria,N
@@ -2435,7 +2435,7 @@
 2436,Fokker,,,FOP,,Netherlands,N
 2437,Fonnafly,,,NOF,FONNA,Norway,N
 2438,Ford Motor Company,,,FOB,FORDAIR,United Kingdom,N
-2439,Formosa Airlines,,VY,FOS,,Taiwan,Y
+2439,Formosa Airlines,,VY,FOS,,Taiwan,N
 2440,Formula One Management,,,FOR,FORMULA,United Kingdom,N
 2441,Forth and Clyde Helicopter Services,,,FHS,HELISCOT,United Kingdom,N
 2442,Fortunair Canada,,,FXC,AIR FUTURE,Canada,N
@@ -2850,7 +2850,7 @@
 2852,Indian Air Force,,,IFC,INDIAN AIRFORCE,India,N
 2853,Indian Airlines,,IC,IAC,INDAIR,India,Y
 2854,Indicator Company,,,IDR,INDICATOR,Hungary,N
-2855,Indigo,,I9,IBU,INDIGO BLUE,United States,Y
+2855,Indigo,,I9,IBU,INDIGO BLUE,United States,N
 2856,Indonesia Air Transport,,,IDA,INTRA,Indonesia,N
 2857,Indonesia AirAsia,,QZ,AWQ,WAGON AIR,Indonesia,Y
 2858,Indonesian Airlines,,IO,IAA,INDO LINES,Indonesia,Y
@@ -2878,7 +2878,7 @@
 2880,Inter-State Aviation,,,ITS,INTER-STATE,United States,N
 2881,Interair South Africa,,D6,ILN,INLINE,South Africa,Y
 2882,Interaire,,,NTE,INTERMEX,Mexico,N
-2883,Interavia Airlines,,ZA,SUW,ASTAIR,Russia,Y
+2883,Interavia Airlines,,ZA,SUW,ASTAIR,Russia,N
 2884,Interaviatrans,,,IVT,INTERAVIA,Ukraine,N
 2885,Intercontinental de Aviaci,,RS,ICT,CONTAVIA,Colombia,N
 2886,Intercopters,,,ICP,CHOPER,Spain,N
@@ -3356,7 +3356,7 @@
 3360,Mac Aviation,,,MAQ,MAC AVIATION,Spain,N
 3361,Mac Dan Aviation Corporation,,,MCN,MAC DAN,United States,N
 3362,MacKnight Airlines,,,MTD,,Australia,N
-3363,Macair Airlines,,CC,MCK,,Australia,Y
+3363,Macair Airlines,,CC,MCK,,Australia,N
 3364,Macedonian Airlines,,,MCS,MACAIR,Greece,N
 3365,Madina Air,,,MDH,MADINA AIR,Libya,N
 3366,Maersk,,DM,,,Denmark,Y
@@ -3425,7 +3425,7 @@
 3429,Max Avia,,,MAI,MAX AVIA,Kyrgyzstan,N
 3430,Max Sea Food,,,MSF,MAXESA,El Salvador,N
 3431,Max-Aviation,,,MAX,MAX AVIATION,Canada,N
-3432,Maxair,,8M,MXL,MAXAIR,Sweden,Y
+3432,Maxair,,8M,MXL,MAXAIR,Sweden,N
 3433,Maximus Air Cargo,,,MXU,CARGO MAX,United Arab Emirates,N
 3434,Maxjet Airways,,MY,MXJ,MAX-JET,United States,N
 3435,Maxsus-Avia,,,MXS,MAXSUS-AVIA,Uzbekistan,N
@@ -3524,7 +3524,7 @@
 3529,Moldavian Airlines,,2M,MDV,MOLDAVIAN,Moldova,Y
 3530,Moldova,,,MVG,MOLDOVA-STATE,Moldova,N
 3531,Mombasa Air Safari,,,RRV,SKYROVER,Kenya,N
-3532,Monarch Airlines,,ZB,MON,MONARCH,United Kingdom,Y
+3532,Monarch Airlines,,ZB,MON,MONARCH,United Kingdom,N
 3533,Monarch Airlines,,,MNH,MONARCH AIR,United States,N
 3534,Myway Airlines,,8I,,,Italy,Y
 3535,Moncton Flying Club,,,MFC,EAST WIND,Canada,N
@@ -3562,7 +3562,7 @@
 3567,My Way Airlines,,,MYW,FRANKY,Italy,N
 3568,MyTravel Airways,,VZ,MYT,KESTREL,United Kingdom,Y
 3569,Myanma Airways,,UB,UBA,UNIONAIR,Myanmar (Burma),Y
-3570,Myanmar Airways International,,8M,MMM,assignment postponed,Myanmar (Burma),Y
+3570,Myanmar Airways International,,8M,MMM,assignment postponed,Myanmar (Burma),N
 3571,Myflug,,,MYA,MYFLUG,Iceland,Y
 3572,Mytravel Airways,,,VKG,VIKING,Denmark,N
 3573,NEL Cargo,,,NLG,NELCARGO,Ivory Coast,N
@@ -3735,7 +3735,7 @@
 3740,Nouvel Air Tunisie,,BJ,LBT,NOUVELAIR,Tunisia,Y
 3741,Nova Airline,,M4,NOV,NOVANILE,Sudan,N
 3742,Nova Scotia Department of Lands and Forests,,,PTR,PATROL,Canada,N
-3743,Novair,,1I,NVR,NAVIGATOR,Sweden,Y
+3743,Novair,,1I,NVR,NAVIGATOR,Sweden,N
 3744,Novogorod Air Enterprise,,,NVG,SADKO AVIA,Russia,N
 3745,Novosibirsk Aircraft Repairing Plant,,,NSP,NARPAIR,Russia,N
 3746,Novosibirsk Aviaenterprise,,,NBE,NAKAIR,Russia,N
@@ -3780,7 +3780,7 @@
 3785,One Two Go Airlines,,,OTG,THAI EXPRESS,Thailand,Y
 3786,Onetime Airlines Zambia,,,OTM,ZEDTIME,Zambia,N
 3787,Ontario Ministry of Health,,,MED,MEDICAL,Canada,N
-3788,Onur Air,,8Q,OHY,ONUR AIR,Turkey,Y
+3788,Onur Air,,8Q,OHY,ONUR AIR,Turkey,N
 3789,Opal Air,,,OPA,,Australia,N
 3790,Open Sky Aviation,,,OSA,,Lebanon,N
 3791,OpenSkies,,,BOS,MISTRAL,United Kingdom,N
@@ -4179,7 +4179,7 @@
 4185,Reno Air,,QQ,ROA,RENO AIR,United States,N
 4186,Renown Aviation,,,RGS,RENOWN,United States,N
 4187,Republic Airlines,,RW,RPA,BRICKYARD,United States,Y
-4188,Republic Express Airlines,,RH,RPH,PUBLIC EXPRESS,Indonesia,Y
+4188,Republic Express Airlines,,RH,RPH,PUBLIC EXPRESS,Indonesia,N
 4189,Republicair,,,RBC,REPUBLICAIR,Mexico,N
 4190,Resort Air,,,RST,RESORT AIR,United States,N
 4191,Rhoades Aviation,,,RDS,RHOADES EXPRESS,United States,N
@@ -4363,7 +4363,7 @@
 4371,Servicios Aereos Luce,,,SEB,SERVILUCE,Mexico,N
 4372,Sedona Air Center,,,SED,SEDONA AIR,United States,N
 4373,Shaheen Air Cargo,,,SEE,SHAHEEN CARGO,Pakistan,N
-4374,Sky Express,,G3,SEH,AIR CRETE,Greece,Y
+4374,Sky Express,,GQ,SEH,AIR CRETE,Greece,Y
 4375,Spicejet,,SG,SEJ,SPICEJET,India,Y
 4376,Skyjet,,,SEK,SKALA,Kazakhstan,N
 4377,Sentel Corporation,,,SEL,SENTEL,United States,N
@@ -4923,7 +4923,7 @@
 4933,Trigana Air Service,,,TGN,TRIGANA,Indonesia,Y
 4934,Titan Airways,,ZT,AWC,ZAP,United Kingdom,N
 4935,Transport Canada,,,TGO,TRANSPORT,Canada,N
-4936,Tiger Airways,,TR,TGW,GO CAT,Singapore,Y
+4936,Tiger Airways,,TR,TGW,GO CAT,Singapore,N
 4937,Tigerair Australia,,TT,TGG,TIGGOZ,Australia,Y
 4938,Transair Gabon],,,TGX,TRANSGABON,Gabon,N
 4939,Trans Guyana Airways,,,TGY,TRANS GUYANA,Guyana,N
@@ -4968,7 +4968,7 @@
 4978,Travelair,,,TLV,PAJAROS,Uruguay,N
 4979,Telesis Transair,,,TLX,TELESIS,United States,N
 4980,Top-Fly,,,TLY,TOPFLY,Spain,N
-4981,Trans Mediterranean Airlines,,TL,TMA,TANGO LIMA,Lebanon,Y
+4981,Trans Mediterranean Airlines,,TL,TMA,TANGO LIMA,Lebanon,N
 4982,Transmed Airlines,,,TMD,,Egypt,N
 4983,Tri-MG Intra Asia Airlines,,GY,TMG,TRILINES,Indonesia,N
 4984,Taxis Turisticos Marakame,,,TMH,TAXIMARAKAME,Mexico,N
@@ -5404,7 +5404,7 @@
 5421,Western Air,,,WST,WESTERN BAHAMAS,Bahamas,N
 5422,Western Air Couriers,,,NPC,NORPAC,United States,N
 5423,Western Air Express,,,WAE,WESTERN EXPRESS,United States,N
-5424,Western Airlines,,WA,WAL,WESTERN,United States,Y
+5424,Western Airlines,,WA,WAL,WESTERN,United States,N
 5425,Western Arctic Air,,,WAL,WESTERN ARCTIC,Canada,N
 5426,Western Aviators,,,WTV,WESTAVIA,United States,N
 5427,Western Express Air Lines,,,WES,WEST EX,Canada,N
@@ -5503,7 +5503,7 @@
 5526,Zracno Pristaniste Mali Losinj,,,MLU,MALI LOSINJ,Croatia,N
 5533,Tyrolean Airways,,,TYR,TYROLEAN,,Y
 5556,buzz,,UK,BUZ,,,N
-5559,Maldivian Air Taxi,,8Q,,,Maldives,Y
+5559,Maldivian Air Taxi,,8Q,,,Maldives,N
 5584,Sky Express,SkyExpress,XW,SXR,SKYSTORM,Russia,Y
 5640,Yellow Air Taxi,,Y0,,,United States,N
 5651,Royal Air Cambodge,,VJ,RAC,,Cambodia,Y
@@ -5652,7 +5652,7 @@
 11839,Dana Air,,DA,,DANACO,Nigeria,Y
 11840,STP Airways,,8F,STP,SAOTOME AIRWAYS,Sao Tome and Principe,Y
 11843,Med Airways,,7Y,,FLYING CARPET,Lebanon,Y
-11850,Skyjet Airlines,,UQ,SJU,SKYJET,Uganda,Y
+11850,Skyjet Airlines,,UQ,SJU,SKYJET,Uganda,N
 11855,Air Volga,,G6,,GOUMRAK,Russia,Y
 11856,Transavia Denmark,,,TDK,,Denmark,Y
 11857,Royal Falcon,,RL,RFJ,,Jordan,Y
@@ -5673,7 +5673,7 @@
 12976,Grand China Air,,,GDC,GRAND CHINA,China,Y
 12978,West Air China,,PN,CHB,WEST CHINA,China,Y
 12990,Falcon Air (IH),,IH,,,Sweden,N
-12997,QatXpress,qatXpress,C3,QAX,,Qatar,Y
+12997,QatXpress,qatXpress,C3,QAX,,Qatar,N
 13076,OneChina,OneChina,1C,1CH,,China,Y
 13088,NordStar Airlines,,Y7,,,Russia,Y
 13089,Joy Air,,JR,JOY,JOY AIR,China,Y
@@ -6018,7 +6018,7 @@
 19651,CARICOM AIRWAYS (BARBADOS) INC.,CARICOM AIRWAYS,,CCB,,Barbados,Y
 19674,Rainbow Air (RAI),Rainbow Air (RAI),RN,RAB,Rainbow,United States,Y
 19675,Rainbow Air Canada,Rainbow Air CAN,RY,RAY,Rainbow CAN,Canada,Y
-19676,Rainbow Air Polynesia,Rainbow Air POL,RX,RPO,Rainbow Air,United States,Y
+19676,Rainbow Air Polynesia,Rainbow Air POL,RX,RPO,Rainbow Air,United States,N
 19677,Rainbow Air Euro,Rainbow Air EU,RU,RUE,Rainbow Air,United Kingdom,Y
 19678,Rainbow Air US,Rainbow Air US,RM,RNY,Rainbow Air,United States,Y
 19745,Transilvania,,,TNS,,Romania,Y
@@ -6048,7 +6048,7 @@
 19846,Myanmar Airways International,,8M,MMA,MYANMAR,Myanmar (Burma),Y
 19847,Vistara,,UK,VTI,VISTARA,India,Y
 19848,Urumqi Air,,UQ,CUH,LOU LAN,China,Y
-19849,Guangxi Beibu Gulf Airlines,,UQ,CBG,GREEN CITY,China,Y
+19849,Guangxi Beibu Gulf Airlines,,GX,CBG,GREEN CITY,China,Y
 19850,My Indo Airlines,,2Y,MYU,MYINDO,Indonesia,Y
 19851,Government of Morocco,,,FRV,,Morocco,Y
 19852,Hong Kong Air Cargo,,RH,HKC,MASCOT,Hong Kong,Y
@@ -6060,5 +6060,5 @@
 19858,Indonesia AirAsia X,,XT,IDX,RED PHOENIX,Indonesia,Y
 19859,Qatar Executive,,QE,QQE,QREX,Qatar,Y
 19860,SF Airlines,,O3,CSS,SHUN FENG,China,Y
-19861,Regent Airways,,RX,RGE,REGENT,Bangladesh,Y
-19862,AsiaCargo Express,,3G,CXM,ASIA CARGO,Malaysia,Y
+19861,Regent Airways,,RX,RGE,REGENT,Bangladesh,N
+19862,AsiaCargo Express,,3G,CXM,ASIA CARGO,Malaysia,N
