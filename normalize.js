@@ -79,6 +79,8 @@ var ID_CORRECTIONS = {
   // Wrong IATA codes in upstream data:
   '4374':  { iata: 'GQ' },  // Sky Express Greece - correct code is GQ not G3
   '19849': { iata: 'GX' },  // Guangxi Beibu Gulf Airlines - correct code is GX not UQ
+  // Outdated airline assignments (upstream OpenFlights not yet updated):
+  '4239':  { name: 'Volaris El Salvador', iata: 'N3', callsign: 'VOLSAL', country: 'El Salvador', active: 'Y' },  // VOS reassigned from Rovos Air (South Africa) to Volaris El Salvador
 };
 
 var columns = ['id', 'name', 'alias', 'iata', 'icao', 'callsign', 'country', 'active'];
