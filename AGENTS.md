@@ -24,7 +24,3 @@
 ## Verifying issues
 
 Before implementing a reported data correction, verify the claim against at least one authoritative source (e.g. [airhex.com](https://airhex.com), [IATA code search](https://www.iata.org/en/publications/directories/code-search/), or [avcodes.co.uk](https://www.avcodes.co.uk/airlcodesearch.asp)).
-
-## Commit authorship
-
-Commits should be authored as the repo owner: `Nissan Pow <nissan.pow@gmail.com>`.
