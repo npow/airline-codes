@@ -303,7 +303,7 @@
 ,
 {"id":"1017","name":"Air Alfa","alias":"\\N","iata":"","icao":"LFA","callsign":"","country":"Turkey","active":"Y"}
 ,
-{"id":"1034","name":"Aerolane","alias":"\\N","iata":"XL","icao":"LNE","callsign":"LAN ECUADOR","country":"Ecuador","active":"Y"}
+{"id":"1034","name":"LATAM Airlines Equador","alias":"\\N","iata":"XL","icao":"LNE","callsign":"LATAM ECUADOR","country":"Ecuador","active":"Y"}
 ,
 {"id":"1048","name":"Atlantis European Airways","alias":"\\N","iata":"TD","icao":"LUR","callsign":"","country":"Armenia","active":"Y"}
 ,
@@ -837,13 +837,13 @@
 ,
 {"id":"3197","name":"LACSA","alias":"\\N","iata":"LR","icao":"LRC","callsign":"LACSA","country":"Costa Rica","active":"Y"}
 ,
-{"id":"3200","name":"LAN Airlines","alias":"\\N","iata":"LA","icao":"LAN","callsign":"LAN","country":"Chile","active":"Y"}
+{"id":"3200","name":"LATAM Airlines","alias":"\\N","iata":"LA","icao":"LAN","callsign":"LAN","country":"Chile","active":"Y"}
 ,
-{"id":"3201","name":"LAN Argentina","alias":"\\N","iata":"4M","icao":"DSM","callsign":"LAN AR","country":"Argentina","active":"Y"}
+{"id":"3201","name":"LATAM Airlines Colômbia","alias":"\\N","iata":"4M","icao":"DSM","callsign":"LAN AR","country":"Argentina","active":"Y"}
 ,
-{"id":"3204","name":"LAN Express","alias":"\\N","iata":"LU","icao":"LXP","callsign":"LANEX","country":"Chile","active":"Y"}
+{"id":"3204","name":"LATAM Express","alias":"\\N","iata":"LU","icao":"LXP","callsign":"LANEX","country":"Chile","active":"Y"}
 ,
-{"id":"3205","name":"LAN Peru","alias":"\\N","iata":"LP","icao":"LPE","callsign":"LANPERU","country":"Peru","active":"Y"}
+{"id":"3205","name":"LATAM Airlines Peru","alias":"\\N","iata":"LP","icao":"LPE","callsign":"LANPERU","country":"Peru","active":"Y"}
 ,
 {"id":"3210","name":"LOT Polish Airlines","alias":"\\N","iata":"LO","icao":"LOT","callsign":"POLLOT","country":"Poland","active":"Y"}
 ,
@@ -1295,7 +1295,7 @@
 ,
 {"id":"5146","name":"Turkish Air Force","alias":"\\N","iata":"","icao":"HVK","callsign":"TURKISH AIRFORCE","country":"Turkey","active":"Y"}
 ,
-{"id":"5156","name":"TAM Mercosur","alias":"\\N","iata":"PZ","icao":"LAP","callsign":"PARAGUAYA","country":"Paraguay","active":"Y"}
+{"id":"5156","name":"LATAM Airlines Paraguai","alias":"\\N","iata":"PZ","icao":"LAP","callsign":"PARAGUAYA","country":"Paraguay","active":"Y"}
 ,
 {"id":"5160","name":"Trans States Airlines","alias":"\\N","iata":"AX","icao":"LOF","callsign":"WATERSKI","country":"United States","active":"Y"}
 ,
