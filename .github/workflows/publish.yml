@@ -19,6 +19,7 @@ jobs:
         with:
           node-version: '22'
           registry-url: 'https://registry.npmjs.org'
+      - run: npm install -g npm@11
       - run: npm install
       - name: Publish if version not already published
         run: |
