@@ -3,6 +3,9 @@ name: Publish to npm
 on:
   push:
     branches: [master]
+    paths-ignore:
+      - '.github/**'
+      - '*.md'
   workflow_dispatch:
 
 jobs:

@@ -28,10 +28,27 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git diff --quiet airlines.dat airlines.json; then
-            echo "No data changes, skipping."
+            echo "No data changes."
+            # GitHub automatically disables scheduled workflows if there are no repository commits for 60 days.
+            # If no commits have been made in the last 40 days, create a keepalive commit to reset the timer.
+            LAST_COMMIT_TS=$(git log -1 --format=%ct)
+            NOW_TS=$(date +%s)
+            DAYS_SINCE=$(( (NOW_TS - LAST_COMMIT_TS) / 86400 ))
+            echo "Days since last commit: $DAYS_SINCE"
+            if [ "$DAYS_SINCE" -ge 40 ]; then
+              echo "Repository inactive for $DAYS_SINCE days (>= 40 days); creating keepalive commit to prevent workflow disable."
+              date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/.keepalive
+              git add .github/.keepalive
+              if ! git diff --staged --quiet; then
+                git commit -m "chore(keepalive): touch .github/.keepalive [skip ci]"
+                git pull --rebase origin master
+                git push origin master
+              fi
+            fi
           else
             npm version patch --no-git-tag-version
             git add airlines.dat airlines.json package.json package-lock.json
             git commit -m "chore: update airline data from OpenFlights"
+            git pull --rebase origin master
             git push origin master
           fi
