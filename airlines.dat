@@ -409,7 +409,7 @@
 408,Avia Air N.V.,\N,,ARB,AVIAIR,Aruba,N
 409,Air Routing International Corp.,\N,,ARC,,United States,N
 410,Aerocondor,\N,2B,ARD,AEROCONDOR,Portugal,Y
-411,Aires,\N,4C,ARE,Aerovias de Integracion Regional, S.A.,Y
+411,LATAM Airlines Colombia,\N,4C,ARE,LAN COLOMBIA,Colombia,Y
 412,Aerolineas Argentinas,\N,AR,ARG,ARGENTINA,Argentina,Y
 413,Arrowhead Airways,\N,,ARH,ARROWHEAD,United States,N
 414,Aero Vics,\N,,ARI,AEROVICS,Mexico,N
@@ -1032,7 +1032,7 @@
 1031,Aerolineas Mexicanas J S,\N,,LMX,LINEAS MEXICANAS,Mexico,N
 1032,Air Almaty,\N,,LMY,AGLEB,Kazakhstan,N
 1033,Air Almaty ZK,\N,,LMZ,ALUNK,Kazakhstan,N
-1034,Aerolane,\N,XL,LNE,LAN ECUADOR,Ecuador,Y
+1034,LATAM Airlines Ecuador,\N,XL,LNE,LAN ECUADOR,Ecuador,Y
 1035,Airlink,\N,,LNK,LINK,South Africa,N
 1036,Aerolineas Internacionales,\N,,LNT,LINEAINT,Mexico,N
 1037,Alok Air,\N,,LOK,ALOK AIR,Sudan,N
@@ -3196,12 +3196,12 @@
 3197,LACSA,\N,LR,LRC,LACSA,Costa Rica,Y
 3198,LADE - Lineas Aereas Del Estado,\N,,LDE,LADE,Argentina,N
 3199,LAI - Linea Aerea IAACA,\N,KG,BNX,AIR BARINAS,Venezuela,N
-3200,LAN Airlines,\N,LA,LAN,LAN,Chile,Y
-3201,LAN Argentina,\N,4M,DSM,LAN AR,Argentina,Y
+3200,LATAM Airlines,\N,LA,LAN,LAN,Chile,Y
+3201,LATAM Airlines Argentina,\N,4M,DSM,LAN AR,Argentina,N
 3202,LAN Cargo,\N,,LCO,LAN CARGO,Chile,N
 3203,LAN Dominica,\N,,LNC,LANCANA,Dominican Republic,N
-3204,LAN Express,\N,LU,LXP,LANEX,Chile,Y
-3205,LAN Peru,\N,LP,LPE,LANPERU,Peru,Y
+3204,LATAM Airlines Chile,\N,LU,LXP,LANEX,Chile,Y
+3205,LATAM Airlines Peru,\N,LP,LPE,LANPERU,Peru,Y
 3206,LANSA,\N,,LSA,INTERNACIONAL,Dominican Republic,N
 3207,LAP Colombia - Lineas Aereas Petroleras,\N,,APT,S.A.,LAP,N
 3208,LASTP,\N,,OTN,LASTP,S,N
@@ -4855,7 +4855,7 @@
 4864,Trans International Express Aviation,\N,,BAP,BIG APPLE,United States,N
 4865,TAG Aviation USA,\N,,TAG,TAG U-S,United States,N
 4866,Talair,\N,,TAL,TALAIR,Papua New Guinea,N
-4867,TAM Brazilian Airlines,\N,JJ,TAM,TAM,Brazil,Y
+4867,LATAM Airlines Brasil,\N,JJ,TAM,TAM,Brazil,Y
 4868,Transaustralian Air Express,\N,,AUC,AUSCARGO,Australia,N
 4869,TAP Portugal,TAP Air Portugal,TP,TAP,AIR PORTUGAL,Portugal,Y
 4870,Tunisair,\N,TU,TAR,TUNAIR,Tunisia,Y
@@ -5144,7 +5144,7 @@
 5153,Transcontinental Airlines,\N,,KRA,REGATA,Kazakhstan,N
 5154,Transaviabaltika,\N,,KTB,TRANSBALTIKA,Lithuania,N
 5155,Transair-Gyraintiee,\N,,KTS,KOTAIR,Russia,N
-5156,TAM Mercosur,\N,PZ,LAP,PARAGUAYA,Paraguay,Y
+5156,LATAM Airlines Paraguay,\N,PZ,LAP,PARAGUAYA,Paraguay,Y
 5157,The Lancair Company,\N,,LCC,LANCAIR,United States,N
 5158,The Army Aviation Heritage Foundation,\N,,LEG,LEGACY,United States,N
 5159,Top Sky International,\N,,LKW,TOPINTER,Indonesia,N

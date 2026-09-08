@@ -81,6 +81,15 @@ var ID_CORRECTIONS = {
   '19849': { iata: 'GX' },  // Guangxi Beibu Gulf Airlines - correct code is GX not UQ
   // Outdated airline assignments (upstream OpenFlights not yet updated):
   '4239':  { name: 'Volaris El Salvador', iata: 'N3', callsign: 'VOLSAL', country: 'El Salvador', active: 'Y' },  // VOS reassigned from Rovos Air (South Africa) to Volaris El Salvador
+  // LAN / TAM rebranding to LATAM:
+  '411':   { name: 'LATAM Airlines Colombia', callsign: 'LAN COLOMBIA', country: 'Colombia' },  // Aires rebranded to LATAM Colombia; fix corrupted callsign and country " S.A."
+  '1034':  { name: 'LATAM Airlines Ecuador' },  // Aerolane rebranded to LATAM Airlines Ecuador
+  '3200':  { name: 'LATAM Airlines' },  // LAN Airlines rebranded to LATAM Airlines
+  '3201':  { name: 'LATAM Airlines Argentina', active: 'N' },  // LAN Argentina rebranded to LATAM Airlines Argentina; ceased operations 2020
+  '3204':  { name: 'LATAM Airlines Chile' },  // LAN Express rebranded to LATAM Airlines Chile
+  '3205':  { name: 'LATAM Airlines Peru' },  // LAN Peru rebranded to LATAM Airlines Peru
+  '4867':  { name: 'LATAM Airlines Brasil' },  // TAM Brazilian Airlines rebranded to LATAM Airlines Brasil
+  '5156':  { name: 'LATAM Airlines Paraguay' },  // TAM Mercosur rebranded to LATAM Airlines Paraguay
 };
 
 var columns = ['id', 'name', 'alias', 'iata', 'icao', 'callsign', 'country', 'active'];
