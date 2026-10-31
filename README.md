@@ -59,6 +59,12 @@ this package, not OpenFlights IDs. Normalization preserves historical records,
 avoids duplicate additions on repeated runs, and uses the upstream ID once an
 active airline with the same ICAO code and country appears upstream.
 
+## License
+
+The software is licensed under the [ISC License](LICENSE).
+The bundled OpenFlights airline database is licensed under
+[ODbL 1.0](DATA_LICENSE.md); see that notice for attribution and upstream terms.
+
 ## Thanks
 
 - [Andrew Kennedy](https://github.com/akenn/airport-codes)
