@@ -1,4 +1,10 @@
 [
+{"id":"-10025","name":"ITA Airways","alias":"\\N","iata":"AZ","icao":"ITY","callsign":"ITARROW","country":"Italy","active":"Y"}
+,
+{"id":"-10027","name":"European Air Transport Leipzig","alias":"\\N","iata":"QY","icao":"BCS","callsign":"POSTMAN","country":"Germany","active":"Y"}
+,
+{"id":"-10028","name":"Air Peace","alias":"\\N","iata":"P4","icao":"APK","callsign":"PEACE BIRD","country":"Nigeria","active":"Y"}
+,
 {"id":"-1","name":"Unknown","alias":"\\N","iata":"-","icao":"N/A","callsign":"\\N","country":"\\N","active":"Y"}
 ,
 {"id":"1","name":"Private flight","alias":"\\N","iata":"-","icao":"N/A","callsign":"","country":"","active":"Y"}
@@ -218,8 +224,6 @@
 {"id":"569","name":"Air India Express","alias":"\\N","iata":"IX","icao":"AXB","callsign":"EXPRESS INDIA","country":"India","active":"Y"}
 ,
 {"id":"576","name":"AirAsia","alias":"Air Asia","iata":"AK","icao":"AXM","callsign":"ASIAN EXPRESS","country":"Malaysia","active":"Y"}
-,
-{"id":"596","name":"Alitalia","alias":"\\N","iata":"AZ","icao":"AZA","callsign":"ALITALIA","country":"Italy","active":"Y"}
 ,
 {"id":"603","name":"Amaszonas","alias":"\\N","iata":"Z8","icao":"AZN","callsign":"","country":"Bolivia","active":"Y"}
 ,
@@ -859,9 +863,11 @@
 ,
 {"id":"3258","name":"Libyan Arab Airlines","alias":"\\N","iata":"LN","icao":"LAA","callsign":"LIBAIR","country":"Libya","active":"Y"}
 ,
-{"id":"3287","name":"Linhas A","alias":"\\N","iata":"LM","icao":"LAM","callsign":"MOZAMBIQUE","country":"Mozambique","active":"Y"}
+{"id":"3287","name":"Linhas A","alias":"\\N","iata":"TM","icao":"LAM","callsign":"MOZAMBIQUE","country":"Mozambique","active":"Y"}
 ,
 {"id":"3290","name":"Lion Mentari Airlines","alias":"\\N","iata":"JT","icao":"LNI","callsign":"LION INTER","country":"Indonesia","active":"Y"}
+,
+{"id":"3302","name":"Loganair","alias":"\\N","iata":"LM","icao":"LOG","callsign":"LOGAN","country":"United Kingdom","active":"Y"}
 ,
 {"id":"3319","name":"Luftfahrtgesellschaft Walter","alias":"\\N","iata":"HE","icao":"LGW","callsign":"WALTER","country":"Germany","active":"Y"}
 ,
@@ -3406,6 +3412,8 @@
 {"id":"594","name":"Ayeet Aviation & Tourism","alias":"\\N","iata":"","icao":"AYT","callsign":"AYEET","country":"Israel","active":"N"}
 ,
 {"id":"595","name":"Atlant-Soyuz Airlines","alias":"\\N","iata":"3G","icao":"AYZ","callsign":"ATLANT-SOYUZ","country":"Russia","active":"N"}
+,
+{"id":"596","name":"Alitalia","alias":"\\N","iata":"AZ","icao":"AZA","callsign":"ALITALIA","country":"Italy","active":"N"}
 ,
 {"id":"597","name":"Azamat","alias":"\\N","iata":"","icao":"AZB","callsign":"TUMARA","country":"Kazakhstan","active":"N"}
 ,
@@ -8168,8 +8176,6 @@
 {"id":"3300","name":"Lockheed Martin Aeronautics","alias":"\\N","iata":"","icao":"CBD","callsign":"CATBIRD","country":"United States","active":"N"}
 ,
 {"id":"3301","name":"Lockheed Martin Aeronautics Company","alias":"\\N","iata":"","icao":"LNG","callsign":"LIGHTNING","country":"United States","active":"N"}
-,
-{"id":"3302","name":"Logan Air","alias":"\\N","iata":"","icao":"LOG","callsign":"LOGAN","country":"United Kingdom","active":"N"}
 ,
 {"id":"3303","name":"Lom Praha Flying School","alias":"\\N","iata":"","icao":"CLV","callsign":"AEROTRAINING","country":"Czech Republic","active":"N"}
 ,

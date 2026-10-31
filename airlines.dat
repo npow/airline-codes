@@ -1,3 +1,6 @@
+-10025,ITA Airways,\N,AZ,ITY,ITARROW,Italy,Y
+-10027,European Air Transport Leipzig,\N,QY,BCS,POSTMAN,Germany,Y
+-10028,Air Peace,\N,P4,APK,PEACE BIRD,Nigeria,Y
 -1,Unknown,\N,-,N/A,\N,\N,Y
 1,Private flight,\N,-,N/A,,,Y
 2,135 Airways,\N,,GNL,GENERAL,United States,N
@@ -594,7 +597,7 @@
 593,Awsaj Aviation Services,\N,,AYS,,Libya,N
 594,Ayeet Aviation & Tourism,\N,,AYT,AYEET,Israel,N
 595,Atlant-Soyuz Airlines,\N,3G,AYZ,ATLANT-SOYUZ,Russia,N
-596,Alitalia,\N,AZ,AZA,ALITALIA,Italy,Y
+596,Alitalia,\N,AZ,AZA,ALITALIA,Italy,N
 597,Azamat,\N,,AZB,TUMARA,Kazakhstan,N
 598,Arcus-Air Logistic,\N,ZE,AZE,ARCUS AIR,Germany,N
 599,Air Zermatt AG,\N,,AZF,AIR ZERMATT,Switzerland,N
@@ -3282,7 +3285,7 @@
 3284,Lineas Aereas del Humaya,\N,,UMA,HUMAYA,Mexico,N
 3285,Linex,\N,,LEC,LECA,Central African Republic,N
 3286,Linhas Aereas Santomenses,\N,,SMS,SANTOMENSES,S,N
-3287,Linhas A,\N,LM,LAM,MOZAMBIQUE,Mozambique,Y
+3287,Linhas A,\N,TM,LAM,MOZAMBIQUE,Mozambique,Y
 3288,Link Airways of Australia,\N,,LAW,,Australia,N
 3289,Lion Air Services,\N,,WGT,WORLDGATE,United Kingdom,N
 3290,Lion Mentari Airlines,\N,JT,LNI,LION INTER,Indonesia,Y
@@ -3297,7 +3300,7 @@
 3299,Lockheed DUATS,\N,,XDD,,United States,N
 3300,Lockheed Martin Aeronautics,\N,,CBD,CATBIRD,United States,N
 3301,Lockheed Martin Aeronautics Company,\N,,LNG,LIGHTNING,United States,N
-3302,Logan Air,\N,,LOG,LOGAN,United Kingdom,N
+3302,Loganair,\N,LM,LOG,LOGAN,United Kingdom,Y
 3303,Lom Praha Flying School,\N,,CLV,AEROTRAINING,Czech Republic,N
 3304,Lomas Helicopters,\N,,LMS,LOMAS,United Kingdom,N
 3305,London City Airport Jet Centre,\N,,LCY,LONDON CITY,United Kingdom,N

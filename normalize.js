@@ -31,6 +31,15 @@ var COUNTRY_CORRECTIONS = {
 // Keys are airline IDs (as strings). Values are objects with field overrides.
 // Fields: name, alias, iata, icao, callsign, country, active
 var ID_CORRECTIONS = {
+  // #25: Alitalia ceased operations in October 2021; ITA is a separate airline.
+  // https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023D0628(01)
+  '596': { active: 'N' },
+  // #26: Loganair is operating and uses LM (upstream omits its IATA code).
+  // https://www.loganair.co.uk/helpcentre/conditions-of-carriage/
+  '3302': { name: 'Loganair', iata: 'LM', active: 'Y' },
+  // The Mozambique/LAM record incorrectly uses Loganair's LM; LAM uses TM.
+  // https://www.iata.org/en/about/members/airline-list/?search=LAM
+  '3287': { iata: 'TM' },
   // Alaska Airlines: upstream has country="ALASKA" (callsign leaked into country field)
   '439':   { country: 'United States' },
   // Dragonair: upstream has country="DRAGON" (callsign leaked into country field)
@@ -94,6 +103,21 @@ var ID_CORRECTIONS = {
 
 var columns = ['id', 'name', 'alias', 'iata', 'icao', 'callsign', 'country', 'active'];
 
+// Stable local IDs in a negative range, separate from positive OpenFlights IDs
+// and its -1 Unknown sentinel. Keep historical predecessor records intact.
+var ADDITIONS = [
+  // #25: https://www.iata.org/en/about/members/airline-list/ita-airways/565/
+  // Callsign: https://www.avcodes.co.uk/details.asp?ID=29704
+  ['-10025', 'ITA Airways', '\\N', 'AZ', 'ITY', 'ITARROW', 'Italy', 'Y'],
+  // #27: the Belgian predecessor (2252) remains inactive.
+  // https://www.iata.org/en/about/members/airline-list/european-air-transport/534/
+  // Callsign: https://www.avcodes.co.uk/details.asp?ID=30177
+  ['-10027', 'European Air Transport Leipzig', '\\N', 'QY', 'BCS', 'POSTMAN', 'Germany', 'Y'],
+  // #28: https://www.iata.org/en/about/members/airline-list/air-peace/500/
+  // Callsign: https://www.avcodes.co.uk/callsignlistres.asp
+  ['-10028', 'Air Peace', '\\N', 'P4', 'APK', 'PEACE BIRD', 'Nigeria', 'Y'],
+];
+
 var content = fs.readFileSync('airlines.dat', 'utf8');
 var rows = [];
 var changed = 0;
@@ -127,6 +151,25 @@ csv.parse(content, function(err, records) {
 
     if (row.join(',') !== original.join(',')) changed++;
     rows.push(row);
+  });
+
+  // Prepend additions so current carriers take precedence in code lookups.
+  // Avoid duplicates on repeat runs or when upstream adds the current airline;
+  // country and active status distinguish historical holders of the same ICAO.
+  ADDITIONS.slice().reverse().forEach(function(addition) {
+    var existing = rows.find(function(row) { return row[0] === addition[0]; });
+    if (existing && (existing[4] !== addition[4] || existing[6] !== addition[6])) {
+      throw new Error('Local airline ID collision: ' + addition[0]);
+    }
+    var upstream = rows.find(function(row) {
+      return row[0] !== addition[0] && row[4] === addition[4] &&
+        row[6] === addition[6] && row[7] === 'Y';
+    });
+    var selected = upstream || existing || addition;
+    rows = rows.filter(function(row) {
+      return row[0] !== addition[0] && row !== selected;
+    });
+    rows.unshift(selected);
   });
 
   // Re-serialize as CSV matching the original dat format

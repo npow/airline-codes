@@ -52,6 +52,13 @@ var COUNTRY_CORRECTIONS = {
 
 After editing, re-run the pipeline above to apply the change.
 
+For other field corrections, add an entry to `ID_CORRECTIONS`, keyed by the
+existing airline ID. For missing airlines, add a row to `ADDITIONS` with a stable,
+unique negative ID below `-10000` and a source comment. These IDs are local to
+this package, not OpenFlights IDs. Normalization preserves historical records,
+avoids duplicate additions on repeated runs, and uses the upstream ID once an
+active airline with the same ICAO code and country appears upstream.
+
 ## Thanks
 
 - [Andrew Kennedy](https://github.com/akenn/airport-codes)
